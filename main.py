@@ -1925,7 +1925,7 @@ app.layout = html.Div([
                                                         )
                                             ),
                                 dbc.NavLink(html.I(className='fa-brands fa-github'),
-                                            href='https://github.com/lomska/visualizing-historical-data-with-dash-plotly',
+                                            href='https://github.com/lomska/plotly-dash-datavizes-witch-hunt-history',
                                             target='_blank',
                                             style={'color': '#e4e3bf',
                                                    'font-family': 'Palatino',
@@ -1933,7 +1933,7 @@ app.layout = html.Div([
                                                    'padding-left': 0}
                                             ),
                                 dbc.NavLink(html.I(className='fa-brands fa-kaggle'),
-                                            href='https://github.com/lomska',
+                                            href='https://github.com/lomska/plotly-dash-datavizes-witch-hunt-history',
                                             target='_blank',
                                             style={'color': '#e4e3bf',
                                                    'font-family': 'Palatino',
