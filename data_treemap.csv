@@ -1,0 +1,1005 @@
+,country,region_map,city,tried,executed,mortality,perc_of_total
+0,Austria,Niederosterreich,Krems,1.0,0.0,0.0,0.0
+1,Austria,Oberosterreich,Braunau am Inn,2.0,1.0,0.5,6.299609424215698e-05
+2,Austria,Oberosterreich,Mattighofen,2.0,0.0,0.0,0.0
+3,Austria,Oberosterreich,Scharding,1.0,0.0,0.0,0.0
+4,Austria,Salzburg,Salzburg,1.0,0.0,0.0,0.0
+5,Austria,Tirol,Innsbruck,57.0,0.0,0.0,0.0
+6,Austria,Vorarlberg,Fussach,11.0,11.0,1.0,0.0006929570366637269
+7,Austria,Wien,Vienna,1.0,1.0,1.0,6.299609424215698e-05
+8,Belgium,Antwerpen,Machelen,1.0,1.0,1.0,6.299609424215698e-05
+9,Belgium,Brabant Wallon,Nivelles,1.0,0.0,0.0,0.0
+10,Belgium,Brabant Wallon,Perwez,1.0,1.0,1.0,6.299609424215698e-05
+11,Belgium,Brabant Wallon,Villers-la-Ville,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+12,Belgium,Brabant Wallon,Wavre,1.0,0.0,0.0,0.0
+13,Belgium,Bruxelles,Brussels,1.0,0.0,0.0,0.0
+14,Belgium,Hainaut,Charleroi,11.0,6.0,0.5454545454545454,0.00037797656545294193
+15,Belgium,Hainaut,Chatelet,5.0,3.0,0.6,0.00018898828272647097
+16,Belgium,Hainaut,Fleurus,12.0,5.0,0.4166666666666667,0.00031498047121078493
+17,Belgium,Hainaut,Gerpinnes,1.0,1.0,1.0,6.299609424215698e-05
+18,Belgium,Hainaut,Mons,1.0,1.0,1.0,6.299609424215698e-05
+19,Belgium,Hainaut,Pont-a-Celles,1.0,1.0,1.0,6.299609424215698e-05
+20,Belgium,Hainaut,Tournai,3.0,0.0,0.0,0.0
+21,Belgium,Liege,Braives,5.0,1.0,0.2,6.299609424215698e-05
+22,Belgium,Liege,Burdinne,2.0,1.0,0.5,6.299609424215698e-05
+23,Belgium,Liege,Hannut,4.0,0.0,0.0,0.0
+24,Belgium,Liege,Seraing,1.0,1.0,1.0,6.299609424215698e-05
+25,Belgium,Liege,Wasseiges,2.0,1.0,0.5,6.299609424215698e-05
+26,Belgium,Luxembourg (BE),Arlon,30.0,24.0,0.8,0.0015119062618117677
+27,Belgium,Luxembourg (BE),Bastogne,10.0,3.0,0.3,0.00018898828272647097
+28,Belgium,Luxembourg (BE),Bouillon,49.0,3.0,0.061224489795918366,0.00018898828272647097
+29,Belgium,Luxembourg (BE),Chiny,23.0,9.0,0.391304347826087,0.0005669648481794129
+30,Belgium,Luxembourg (BE),Durbuy,38.0,3.0,0.07894736842105263,0.00018898828272647097
+31,Belgium,Luxembourg (BE),Marche-en-Famenne,7.0,0.0,0.0,0.0
+32,Belgium,Luxembourg (BE),Neufchateau,6.0,0.0,0.0,0.0
+33,Belgium,Luxembourg (BE),Saint-Hubert,24.0,0.0,0.0,0.0
+34,Belgium,Luxembourg (BE),Virton,22.0,6.0,0.2727272727272727,0.00037797656545294193
+35,Belgium,Namur,Andenne,6.0,1.0,0.16666666666666666,6.299609424215698e-05
+36,Belgium,Namur,Anhee,2.0,0.0,0.0,0.0
+37,Belgium,Namur,Assesse,3.0,0.0,0.0,0.0
+38,Belgium,Namur,Bioul,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+39,Belgium,Namur,Ciney,4.0,2.0,0.5,0.00012599218848431397
+40,Belgium,Namur,Dinant,15.0,4.0,0.26666666666666666,0.00025198437696862794
+41,Belgium,Namur,Eghezee,14.0,7.0,0.5,0.00044097265969509893
+42,Belgium,Namur,Fernelmont,10.0,3.0,0.3,0.00018898828272647097
+43,Belgium,Namur,Floreffe,18.0,9.0,0.5,0.0005669648481794129
+44,Belgium,Namur,Florennes,12.0,4.0,0.3333333333333333,0.00025198437696862794
+45,Belgium,Namur,Gembloux,7.0,4.0,0.5714285714285714,0.00025198437696862794
+46,Belgium,Namur,Gesves,2.0,1.0,0.5,6.299609424215698e-05
+47,Belgium,Namur,Hamois,9.0,1.0,0.1111111111111111,6.299609424215698e-05
+48,Belgium,Namur,Hastiere,14.0,2.0,0.14285714285714285,0.00012599218848431397
+49,Belgium,Namur,Houyet,2.0,1.0,0.5,6.299609424215698e-05
+50,Belgium,Namur,Jemeppe-sur-Sambre,10.0,6.0,0.6,0.00037797656545294193
+51,Belgium,Namur,La Bruyere,1.0,1.0,1.0,6.299609424215698e-05
+52,Belgium,Namur,Mettet,15.0,6.0,0.4,0.00037797656545294193
+53,Belgium,Namur,Namur,30.0,13.0,0.43333333333333335,0.0008189492251480409
+54,Belgium,Namur,Ohey,4.0,2.0,0.5,0.00012599218848431397
+55,Belgium,Namur,Onhaye,9.0,4.0,0.4444444444444444,0.00025198437696862794
+56,Belgium,Namur,Philippeville,1.0,0.0,0.0,0.0
+57,Belgium,Namur,Profondeville,3.0,3.0,1.0,0.00018898828272647097
+58,Belgium,Namur,Sambreville,2.0,0.0,0.0,0.0
+59,Belgium,Namur,Sombreffe,1.0,1.0,1.0,6.299609424215698e-05
+60,Belgium,Namur,Walcourt,16.0,7.0,0.4375,0.00044097265969509893
+61,Belgium,Namur,Yvoir,4.0,1.0,0.25,6.299609424215698e-05
+62,Belgium,Oost-Vlaanderen,Aalst,2.0,2.0,1.0,0.00012599218848431397
+63,Belgium,Oost-Vlaanderen,Assenede,1.0,1.0,1.0,6.299609424215698e-05
+64,Belgium,Oost-Vlaanderen,Berlare,1.0,1.0,1.0,6.299609424215698e-05
+65,Belgium,Oost-Vlaanderen,Deinze,1.0,1.0,1.0,6.299609424215698e-05
+66,Belgium,Oost-Vlaanderen,Dendermonde,3.0,3.0,1.0,0.00018898828272647097
+67,Belgium,Oost-Vlaanderen,Eeklo,1.0,1.0,1.0,6.299609424215698e-05
+68,Belgium,Oost-Vlaanderen,Gavere,1.0,1.0,1.0,6.299609424215698e-05
+69,Belgium,Oost-Vlaanderen,Geraardsbergen,1.0,1.0,1.0,6.299609424215698e-05
+70,Belgium,Oost-Vlaanderen,Ghent,9.0,9.0,1.0,0.0005669648481794129
+71,Belgium,Oost-Vlaanderen,Kruishoutem,2.0,2.0,1.0,0.00012599218848431397
+72,Belgium,Oost-Vlaanderen,Laarne,1.0,1.0,1.0,6.299609424215698e-05
+73,Belgium,Oost-Vlaanderen,Nazareth,1.0,1.0,1.0,6.299609424215698e-05
+74,Belgium,Oost-Vlaanderen,Nevele,1.0,1.0,1.0,6.299609424215698e-05
+75,Belgium,Oost-Vlaanderen,Ninove,1.0,1.0,1.0,6.299609424215698e-05
+76,Belgium,Oost-Vlaanderen,Oudenaarde,3.0,3.0,1.0,0.00018898828272647097
+77,Belgium,Oost-Vlaanderen,Ronse,1.0,1.0,1.0,6.299609424215698e-05
+78,Belgium,Oost-Vlaanderen,Sint-Niklaas,3.0,3.0,1.0,0.00018898828272647097
+79,Belgium,Oost-Vlaanderen,Wortegem-Petegem,1.0,1.0,1.0,6.299609424215698e-05
+80,Belgium,Oost-Vlaanderen,Zulte,1.0,1.0,1.0,6.299609424215698e-05
+81,Belgium,Vlaams Brabant,Liedekerke,1.0,1.0,1.0,6.299609424215698e-05
+82,Belgium,West-Vlaanderen,Bruges,104.0,23.0,0.22115384615384615,0.0014489101675696106
+83,Belgium,West-Vlaanderen,Dentergem,2.0,2.0,1.0,0.00012599218848431397
+84,Belgium,West-Vlaanderen,Diksmuide,3.0,3.0,1.0,0.00018898828272647097
+85,Belgium,West-Vlaanderen,Herelbeke,1.0,1.0,1.0,6.299609424215698e-05
+86,Belgium,West-Vlaanderen,Heuvelland,1.0,1.0,1.0,6.299609424215698e-05
+87,Belgium,West-Vlaanderen,Ingelmunster,1.0,1.0,1.0,6.299609424215698e-05
+88,Belgium,West-Vlaanderen,Kortemark,1.0,1.0,1.0,6.299609424215698e-05
+89,Belgium,West-Vlaanderen,Kortrijk,2.0,2.0,1.0,0.00012599218848431397
+90,Belgium,West-Vlaanderen,Menen,3.0,3.0,1.0,0.00018898828272647097
+91,Belgium,West-Vlaanderen,Mesen,1.0,1.0,1.0,6.299609424215698e-05
+92,Belgium,West-Vlaanderen,Nieuwpoort,9.0,9.0,1.0,0.0005669648481794129
+93,Belgium,West-Vlaanderen,Ostend,1.0,1.0,1.0,6.299609424215698e-05
+94,Belgium,West-Vlaanderen,Oudenburg,1.0,1.0,1.0,6.299609424215698e-05
+95,Belgium,West-Vlaanderen,Poperinge,1.0,1.0,1.0,6.299609424215698e-05
+96,Belgium,West-Vlaanderen,Spiere-Helkijn,1.0,1.0,1.0,6.299609424215698e-05
+97,Belgium,West-Vlaanderen,Veurne,15.0,15.0,1.0,0.0009449414136323547
+98,Belgium,West-Vlaanderen,Ypres,5.0,5.0,1.0,0.00031498047121078493
+99,Belgium,West-Vlaanderen,Zwevegem,4.0,4.0,1.0,0.00025198437696862794
+100,Czech Republic,Jihomoravsky,Brunn,2.0,0.0,0.0,0.0
+101,Denmark,Central Jutland,Ringkobing,1.0,0.0,0.0,0.0
+102,Denmark,Southern Denmark,Agerbaek,1.0,0.0,0.0,0.0
+103,Denmark,Southern Denmark,Blavand,4.0,0.0,0.0,0.0
+104,Denmark,Southern Denmark,Bramming,3.0,0.0,0.0,0.0
+105,Denmark,Southern Denmark,Esbjerg,10.0,0.0,0.0,0.0
+106,Denmark,Southern Denmark,Faaborg,1.0,0.0,0.0,0.0
+107,Denmark,Southern Denmark,Fano,1.0,0.0,0.0,0.0
+108,Denmark,Southern Denmark,Haderslev,2.0,0.0,0.0,0.0
+109,Denmark,Southern Denmark,Norre-Nebel,5.0,0.0,0.0,0.0
+110,Denmark,Southern Denmark,Ribe,13.0,0.0,0.0,0.0
+111,Denmark,Southern Denmark,Skaerbaek,1.0,0.0,0.0,0.0
+112,Denmark,Southern Denmark,Varde,9.0,0.0,0.0,0.0
+113,France,Alsace,Ensisheim,5.0,5.0,1.0,0.00031498047121078493
+114,France,Alsace,Erstein,1.0,1.0,1.0,6.299609424215698e-05
+115,France,Alsace,La Wantzenau,5.0,4.0,0.8,0.00025198437696862794
+116,France,Alsace,Schlettstadt,1.0,1.0,1.0,6.299609424215698e-05
+117,France,Alsace,Strassburg,4.0,1.0,0.25,6.299609424215698e-05
+118,France,Aquitaine,Agen,6.0,2.0,0.3333333333333333,0.00012599218848431397
+119,France,Aquitaine,Bearn,12.0,2.0,0.16666666666666666,0.00012599218848431397
+120,France,Aquitaine,Bordeaux,2.0,2.0,1.0,0.00012599218848431397
+121,France,Aquitaine,Marmande,11.0,7.0,0.6363636363636364,0.00044097265969509893
+122,France,Aquitaine,Nerac,2.0,0.0,0.0,0.0
+123,France,Aquitaine,Saint-Jean-de-Luz,1.0,1.0,1.0,6.299609424215698e-05
+124,France,Auvergne,Le Puy-en-Velay,1.0,1.0,1.0,6.299609424215698e-05
+125,France,Auvergne,Riom,2.0,1.0,0.5,6.299609424215698e-05
+126,France,Basse-Normandie,L'Oudon,1.0,1.0,1.0,6.299609424215698e-05
+127,France,Bourgogne,Autun,1.0,0.0,0.0,0.0
+128,France,Bourgogne,Auxonne,2.0,2.0,1.0,0.00012599218848431397
+129,France,Bourgogne,Chalon-sur-Saone,1.0,0.0,0.0,0.0
+130,France,Bourgogne,Dijon,1.0,1.0,1.0,6.299609424215698e-05
+131,France,Bourgogne,Macon,4.0,4.0,1.0,0.00025198437696862794
+132,France,Bourgogne,Nevers,1.0,1.0,1.0,6.299609424215698e-05
+133,France,Bourgogne,Tonnerre,1.0,1.0,1.0,6.299609424215698e-05
+134,France,Bretagne,Lorient,3.0,0.0,0.0,0.0
+135,France,Centre,Orleans,18.0,18.0,1.0,0.0011339296963588257
+136,France,Centre,Tours,14.0,0.0,0.0,0.0
+137,France,Champagne-Ardenne,Bievres,1.0,1.0,1.0,6.299609424215698e-05
+138,France,Champagne-Ardenne,Chalons-sur-Marne,1.0,0.0,0.0,0.0
+139,France,Champagne-Ardenne,Langres,6.0,0.0,0.0,0.0
+140,France,Champagne-Ardenne,Troyes,1.0,0.0,0.0,0.0
+141,France,Franche-Comte,Arbois,3.0,0.0,0.0,0.0
+142,France,Franche-Comte,Baume-les-Dames,11.0,4.0,0.36363636363636365,0.00025198437696862794
+143,France,Franche-Comte,Besancon,2.0,2.0,1.0,0.00012599218848431397
+144,France,Franche-Comte,Dole,20.0,8.0,0.4,0.0005039687539372559
+145,France,Franche-Comte,Gray,12.0,3.0,0.25,0.00018898828272647097
+146,France,Franche-Comte,Lons-le-Saunier,3.0,2.0,0.6666666666666666,0.00012599218848431397
+147,France,Franche-Comte,Luxeuil-les-Bains,8.0,4.0,0.5,0.00025198437696862794
+148,France,Franche-Comte,Orgelet,9.0,3.0,0.3333333333333333,0.00018898828272647097
+149,France,Franche-Comte,Ornans,8.0,3.0,0.375,0.00018898828272647097
+150,France,Franche-Comte,Poligny,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+151,France,Franche-Comte,Quingey,7.0,3.0,0.42857142857142855,0.00018898828272647097
+152,France,Franche-Comte,Saint-Claude,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+153,France,Franche-Comte,Salins-les-Bains,8.0,5.0,0.625,0.00031498047121078493
+154,France,Franche-Comte,Vesoul,32.0,16.0,0.5,0.0010079375078745117
+155,France,Haute-Normandie,Evreux,1.0,0.0,0.0,0.0
+156,France,Haute-Normandie,Londinieres,8.0,8.0,1.0,0.0005039687539372559
+157,France,Haute-Normandie,Louviers,2.0,1.0,0.5,6.299609424215698e-05
+158,France,Haute-Normandie,Rouen,6.0,5.0,0.8333333333333334,0.00031498047121078493
+159,France,Ile-de-France,Brie-Comte-Robert,6.0,3.0,0.5,0.00018898828272647097
+160,France,Ile-de-France,Chateau-Landon,2.0,1.0,0.5,6.299609424215698e-05
+161,France,Ile-de-France,Coulommiers,1.0,0.0,0.0,0.0
+162,France,Ile-de-France,Mantes,1.0,0.0,0.0,0.0
+163,France,Ile-de-France,Paris,357.0,61.0,0.17086834733893558,0.003842761748771576
+164,France,Ile-de-France,Provins,1.0,0.0,0.0,0.0
+165,France,Languedoc-Roussillon,Beziers,2.0,0.0,0.0,0.0
+166,France,Languedoc-Roussillon,Boucoiran-et-Nozieres,1.0,0.0,0.0,0.0
+167,France,Languedoc-Roussillon,Carcassonne,7.0,3.0,0.42857142857142855,0.00018898828272647097
+168,France,Languedoc-Roussillon,Mende,1.0,0.0,0.0,0.0
+169,France,Lorraine,Amance,44.0,0.0,0.0,0.0
+170,France,Lorraine,Arches,62.0,0.0,0.0,0.0
+171,France,Lorraine,Bar,1.0,1.0,1.0,6.299609424215698e-05
+172,France,Lorraine,Bitche,8.0,0.0,0.0,0.0
+173,France,Lorraine,Blamont,67.0,0.0,0.0,0.0
+174,France,Lorraine,Bruyeres,40.0,0.0,0.0,0.0
+175,France,Lorraine,Cappel,20.0,20.0,1.0,0.0012599218848431397
+176,France,Lorraine,Chambourg,60.0,36.0,0.6,0.0022678593927176515
+177,France,Lorraine,Charmes,19.0,0.0,0.0,0.0
+178,France,Lorraine,Chatel-sur-Moselle,48.0,0.0,0.0,0.0
+179,France,Lorraine,Darney,5.0,0.0,0.0,0.0
+180,France,Lorraine,Dieuze,31.0,0.0,0.0,0.0
+181,France,Lorraine,Dompaire,43.0,0.0,0.0,0.0
+182,France,Lorraine,Einville-au-jard,30.0,0.0,0.0,0.0
+183,France,Lorraine,Epinal,44.0,0.0,0.0,0.0
+184,France,Lorraine,Forbach,1.0,0.0,0.0,0.0
+185,France,Lorraine,Gondreville,37.0,0.0,0.0,0.0
+186,France,Lorraine,Gorze,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+187,France,Lorraine,Halfedanges,2.0,0.0,0.0,0.0
+188,France,Lorraine,Luneville,24.0,0.0,0.0,0.0
+189,France,Lorraine,Metz,64.0,56.0,0.875,0.0035277812775607914
+190,France,Lorraine,Mirecourt,62.0,0.0,0.0,0.0
+191,France,Lorraine,Monthureux-sur-Saone,4.0,4.0,1.0,0.00025198437696862794
+192,France,Lorraine,Morhange,126.0,102.0,0.8095238095238095,0.006425601612700013
+193,France,Lorraine,Nancy,79.0,2.0,0.02531645569620253,0.00012599218848431397
+194,France,Lorraine,Pont-a-Mousson,30.0,0.0,0.0,0.0
+195,France,Lorraine,Preny,12.0,0.0,0.0,0.0
+196,France,Lorraine,Puttelange-aux-Lacs,36.0,30.0,0.8333333333333334,0.0018898828272647095
+197,France,Lorraine,Rosieres-aux-Salines,45.0,0.0,0.0,0.0
+198,France,Lorraine,Saint-Die,384.0,0.0,0.0,0.0
+199,France,Lorraine,Sarralbe,30.0,24.0,0.8,0.0015119062618117677
+200,France,Lorraine,Sarrebourg,48.0,42.0,0.875,0.0026458359581705932
+201,France,Lorraine,Sarreguemines,60.0,54.0,0.9,0.003401789089076477
+202,France,Lorraine,Sierck-les-Bains,42.0,30.0,0.7142857142857143,0.0018898828272647095
+203,France,Lorraine,Vaudemont,56.0,0.0,0.0,0.0
+204,France,Lorraine,Verdun,1.0,1.0,1.0,6.299609424215698e-05
+205,France,Midi-Pyrenees,Cintegabelle,5.0,0.0,0.0,0.0
+206,France,Midi-Pyrenees,Figeac,1.0,0.0,0.0,0.0
+207,France,Midi-Pyrenees,Pamiers,6.0,0.0,0.0,0.0
+208,France,Midi-Pyrenees,Toulouse,62.0,58.0,0.9354838709677419,0.003653773466045105
+209,France,Nord-Pas-de-Calais,Bailleul,4.0,4.0,1.0,0.00025198437696862794
+210,France,Nord-Pas-de-Calais,Bergues,3.0,3.0,1.0,0.00018898828272647097
+211,France,Nord-Pas-de-Calais,Cambrai,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+212,France,Nord-Pas-de-Calais,Cassel,8.0,8.0,1.0,0.0005039687539372559
+213,France,Nord-Pas-de-Calais,Douai,9.0,4.0,0.4444444444444444,0.00025198437696862794
+214,France,Nord-Pas-de-Calais,Dunkirk,4.0,4.0,1.0,0.00025198437696862794
+215,France,Nord-Pas-de-Calais,Hondschoote,4.0,4.0,1.0,0.00025198437696862794
+216,France,Nord-Pas-de-Calais,Houtkerque,2.0,2.0,1.0,0.00012599218848431397
+217,France,Nord-Pas-de-Calais,Lille,2.0,1.0,0.5,6.299609424215698e-05
+218,France,Nord-Pas-de-Calais,Merville,2.0,2.0,1.0,0.00012599218848431397
+219,France,Nord-Pas-de-Calais,Mons-en-Pevele,1.0,0.0,0.0,0.0
+220,France,Nord-Pas-de-Calais,Morbecque,2.0,2.0,1.0,0.00012599218848431397
+221,France,Nord-Pas-de-Calais,Pecquencourt,1.0,0.0,0.0,0.0
+222,France,Nord-Pas-de-Calais,Rouvroy,1.0,0.0,0.0,0.0
+223,France,Pays de la Loire,Angers,1.0,1.0,1.0,6.299609424215698e-05
+224,France,Pays de la Loire,Nantes,8.0,8.0,1.0,0.0005039687539372559
+225,France,Pays de la Loire,Saumur,1.0,1.0,1.0,6.299609424215698e-05
+226,France,Picardie,Chauny,5.0,4.0,0.8,0.00025198437696862794
+227,France,Picardie,Laon,1.0,0.0,0.0,0.0
+228,France,Picardie,Saint-Quentin,1.0,0.0,0.0,0.0
+229,France,Picardie,Soissons,2.0,1.0,0.5,6.299609424215698e-05
+230,France,Poitou-Charentes,Bressuire,1.0,1.0,1.0,6.299609424215698e-05
+231,France,Poitou-Charentes,Poitiers,4.0,4.0,1.0,0.00025198437696862794
+232,France,Provence-Alpes-Cote d'Azur,Aix-en-Provence,1.0,0.0,0.0,0.0
+233,France,Provence-Alpes-Cote d'Azur,Avignon,27.0,19.0,0.7037037037037037,0.0011969257906009828
+234,France,Provence-Alpes-Cote d'Azur,Draguignan,1.0,0.0,0.0,0.0
+235,France,Provence-Alpes-Cote d'Azur,Nice,2.0,1.0,0.5,6.299609424215698e-05
+236,France,Rhone-Alpes,Aubenas,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+237,France,Rhone-Alpes,Avalon,4.0,0.0,0.0,0.0
+238,France,Rhone-Alpes,Boissey,1.0,1.0,1.0,6.299609424215698e-05
+239,France,Rhone-Alpes,Chambery,1.0,1.0,1.0,6.299609424215698e-05
+240,France,Rhone-Alpes,Chamonix,23.0,23.0,1.0,0.0014489101675696106
+241,France,Rhone-Alpes,La Tour-du-Pin,1.0,1.0,1.0,6.299609424215698e-05
+242,France,Rhone-Alpes,Lyon,32.0,30.0,0.9375,0.0018898828272647095
+243,France,Rhone-Alpes,Talloires,4.0,4.0,1.0,0.00025198437696862794
+244,France,Rhone-Alpes,Vivarais,2.0,2.0,1.0,0.00012599218848431397
+245,Germany,Arnsberg,Anrochte,4.0,3.0,0.75,0.00018898828272647097
+246,Germany,Arnsberg,Arnsberg,220.0,152.0,0.6909090909090909,0.009575406324807863
+247,Germany,Arnsberg,Attendorn,7.0,3.0,0.42857142857142855,0.00018898828272647097
+248,Germany,Arnsberg,Bad Fredeburg,50.0,40.0,0.8,0.0025198437696862795
+249,Germany,Arnsberg,Balve,323.0,307.0,0.9504643962848297,0.019339800932342194
+250,Germany,Arnsberg,Bilstein,133.0,89.0,0.6691729323308271,0.005606652387551972
+251,Germany,Arnsberg,Drolshagen,15.0,15.0,1.0,0.0009449414136323547
+252,Germany,Arnsberg,Finnentrop,1.0,0.0,0.0,0.0
+253,Germany,Arnsberg,Hallenberg,34.0,17.0,0.5,0.0010709336021166688
+254,Germany,Arnsberg,Marsberg,2.0,2.0,1.0,0.00012599218848431397
+255,Germany,Arnsberg,Medebach,3.0,2.0,0.6666666666666666,0.00012599218848431397
+256,Germany,Arnsberg,Menden,82.0,76.0,0.926829268292683,0.004787703162403931
+257,Germany,Arnsberg,Meschede,2.0,2.0,1.0,0.00012599218848431397
+258,Germany,Arnsberg,Olpe,45.0,23.0,0.5111111111111111,0.0014489101675696106
+259,Germany,Arnsberg,Padberg,9.0,7.0,0.7777777777777778,0.00044097265969509893
+260,Germany,Arnsberg,Schmallenberg,83.0,71.0,0.8554216867469879,0.004472722691193146
+261,Germany,Arnsberg,Siegen,1.0,0.0,0.0,0.0
+262,Germany,Arnsberg,Sundern,1.0,0.0,0.0,0.0
+263,Germany,Arnsberg,Warstein,33.0,17.0,0.5151515151515151,0.0010709336021166688
+264,Germany,Arnsberg,Werl,55.0,53.0,0.9636363636363636,0.00333879299483432
+265,Germany,Arnsberg,Winterberg,6.0,2.0,0.3333333333333333,0.00012599218848431397
+266,Germany,Berlin,Berlin,5.0,5.0,1.0,0.00031498047121078493
+267,Germany,Brandenburg,Angermunde,14.0,14.0,1.0,0.0008819453193901979
+268,Germany,Brandenburg,Prenzlau,5.0,0.0,0.0,0.0
+269,Germany,Braunschweig,Braunschweig,1.0,0.0,0.0,0.0
+270,Germany,Chemnitz,Zwickau,1.0,0.0,0.0,0.0
+271,Germany,Darmstadt,Birstein,3.0,0.0,0.0,0.0
+272,Germany,Darmstadt,Brachttal,1.0,0.0,0.0,0.0
+273,Germany,Darmstadt,Budingen,26.0,0.0,0.0,0.0
+274,Germany,Darmstadt,Dreieich,7.0,0.0,0.0,0.0
+275,Germany,Darmstadt,Erlensee,2.0,0.0,0.0,0.0
+276,Germany,Darmstadt,Florstadt,11.0,0.0,0.0,0.0
+277,Germany,Darmstadt,Frankfurt am Main,6.0,1.0,0.16666666666666666,6.299609424215698e-05
+278,Germany,Darmstadt,Gedern,1.0,0.0,0.0,0.0
+279,Germany,Darmstadt,Gelnhausen,45.0,0.0,0.0,0.0
+280,Germany,Darmstadt,Ginsheim-Gustavsburg,2.0,0.0,0.0,0.0
+281,Germany,Darmstadt,Gonsroth,1.0,0.0,0.0,0.0
+282,Germany,Darmstadt,Grundau,15.0,0.0,0.0,0.0
+283,Germany,Darmstadt,Hasselroth,1.0,0.0,0.0,0.0
+284,Germany,Darmstadt,Hitzkirchen,1.0,0.0,0.0,0.0
+285,Germany,Darmstadt,Kefenrod,1.0,0.0,0.0,0.0
+286,Germany,Darmstadt,Langen,1.0,0.0,0.0,0.0
+287,Germany,Darmstadt,Limeshain,4.0,0.0,0.0,0.0
+288,Germany,Darmstadt,Linsengericht,7.0,0.0,0.0,0.0
+289,Germany,Darmstadt,Meisenheim,1.0,0.0,0.0,0.0
+290,Germany,Darmstadt,Neuberg,2.0,0.0,0.0,0.0
+291,Germany,Darmstadt,Niddatal,2.0,0.0,0.0,0.0
+292,Germany,Darmstadt,Offenbach am Main,3.0,0.0,0.0,0.0
+293,Germany,Darmstadt,Ortenberg,3.0,0.0,0.0,0.0
+294,Germany,Darmstadt,Peterweil,2.0,0.0,0.0,0.0
+295,Germany,Darmstadt,R?_sselsheim,1.0,0.0,0.0,0.0
+296,Germany,Darmstadt,Rodenbach,1.0,0.0,0.0,0.0
+297,Germany,Darmstadt,Rodenbergen,1.0,0.0,0.0,0.0
+298,Germany,Darmstadt,Russelsheim,1.0,0.0,0.0,0.0
+299,Germany,Darmstadt,Schonrain,1.0,0.0,0.0,0.0
+300,Germany,Darmstadt,Wachtersbach,3.0,0.0,0.0,0.0
+301,Germany,Detmold,Buren,14.0,13.0,0.9285714285714286,0.0008189492251480409
+302,Germany,Detmold,Paderborn,1.0,0.0,0.0,0.0
+303,Germany,Dusseldorf,Angermund,2.0,0.0,0.0,0.0
+304,Germany,Dusseldorf,Ratingen,1.0,0.0,0.0,0.0
+305,Germany,Dusseldorf,Rheinberg,1.0,1.0,1.0,6.299609424215698e-05
+306,Germany,Freiburg,Achern,2.0,2.0,1.0,0.00012599218848431397
+307,Germany,Freiburg,Appenweier,5.0,3.0,0.6,0.00018898828272647097
+308,Germany,Freiburg,Badenweiler,1.0,1.0,1.0,6.299609424215698e-05
+309,Germany,Freiburg,Bernau im Schwarzwald,17.0,17.0,1.0,0.0010709336021166688
+310,Germany,Freiburg,Black Forest,2.0,2.0,1.0,0.00012599218848431397
+311,Germany,Freiburg,Braunlingen,11.0,7.0,0.6363636363636364,0.00044097265969509893
+312,Germany,Freiburg,Breisach,85.0,2.0,0.023529411764705882,0.00012599218848431397
+313,Germany,Freiburg,Brigach,6.0,6.0,1.0,0.00037797656545294193
+314,Germany,Freiburg,Burkheim,8.0,8.0,1.0,0.0005039687539372559
+315,Germany,Freiburg,Diersburg,2.0,2.0,1.0,0.00012599218848431397
+316,Germany,Freiburg,Donaueschingen,7.0,7.0,1.0,0.00044097265969509893
+317,Germany,Freiburg,Dornhan,14.0,11.0,0.7857142857142857,0.0006929570366637269
+318,Germany,Freiburg,Efringen-Kirchen,1.0,1.0,1.0,6.299609424215698e-05
+319,Germany,Freiburg,Elzach,15.0,14.0,0.9333333333333333,0.0008819453193901979
+320,Germany,Freiburg,Endingen,7.0,7.0,1.0,0.00044097265969509893
+321,Germany,Freiburg,Erolzheim,6.0,6.0,1.0,0.00037797656545294193
+322,Germany,Freiburg,Ettenheim,32.0,18.0,0.5625,0.0011339296963588257
+323,Germany,Freiburg,Freiburg,45.0,41.0,0.9111111111111111,0.0025828398639284366
+324,Germany,Freiburg,Gengenbach,96.0,86.0,0.8958333333333334,0.005417664104825501
+325,Germany,Freiburg,Grafenhausen,2.0,0.0,0.0,0.0
+326,Germany,Freiburg,Gundelfingen,1.0,0.0,0.0,0.0
+327,Germany,Freiburg,Harmersbach,1.0,0.0,0.0,0.0
+328,Germany,Freiburg,Haslach im Kinzigtal,23.0,20.0,0.8695652173913043,0.0012599218848431397
+329,Germany,Freiburg,Heidelberg,2.0,0.0,0.0,0.0
+330,Germany,Freiburg,Hofweier,6.0,6.0,1.0,0.00037797656545294193
+331,Germany,Freiburg,Hornberg,7.0,1.0,0.14285714285714285,6.299609424215698e-05
+332,Germany,Freiburg,Hufingen,16.0,14.0,0.875,0.0008819453193901979
+333,Germany,Freiburg,Isny im Allgau,3.0,0.0,0.0,0.0
+334,Germany,Freiburg,Kenzingen,16.0,16.0,1.0,0.0010079375078745117
+335,Germany,Freiburg,Kloster Wittichen,1.0,0.0,0.0,0.0
+336,Germany,Freiburg,Konigsheim,1.0,0.0,0.0,0.0
+337,Germany,Freiburg,Konstanz,111.0,66.0,0.5945945945945946,0.004157742219982361
+338,Germany,Freiburg,Lahr,4.0,3.0,0.75,0.00018898828272647097
+339,Germany,Freiburg,Lenzkirch,3.0,0.0,0.0,0.0
+340,Germany,Freiburg,Markgraflerland,1.0,0.0,0.0,0.0
+341,Germany,Freiburg,Neuried,1.0,1.0,1.0,6.299609424215698e-05
+342,Germany,Freiburg,Nimburg,1.0,1.0,1.0,6.299609424215698e-05
+343,Germany,Freiburg,Oberkirch,25.0,1.0,0.04,6.299609424215698e-05
+344,Germany,Freiburg,Oberndorf am Neckar,56.0,43.0,0.7678571428571429,0.0027088320524127503
+345,Germany,Freiburg,Offenburg,108.0,88.0,0.8148148148148148,0.005543656293309815
+346,Germany,Freiburg,Oppenau,58.0,50.0,0.8620689655172413,0.0031498047121078492
+347,Germany,Freiburg,Ortenaukreis,111.0,105.0,0.9459459459459459,0.0066145898954264835
+348,Germany,Freiburg,Rammersweier,2.0,0.0,0.0,0.0
+349,Germany,Freiburg,Reichenau,1.0,0.0,0.0,0.0
+350,Germany,Freiburg,Reichenbach am Heuberg,5.0,1.0,0.2,6.299609424215698e-05
+351,Germany,Freiburg,Renchen,17.0,17.0,1.0,0.0010709336021166688
+352,Germany,Freiburg,Reute,38.0,38.0,1.0,0.0023938515812019657
+353,Germany,Freiburg,Rottweil,68.0,68.0,1.0,0.004283734408466675
+354,Germany,Freiburg,Sasbach,63.0,63.0,1.0,0.00396875393725589
+355,Germany,Freiburg,Schiltach,9.0,9.0,1.0,0.0005669648481794129
+356,Germany,Freiburg,Schliengen,2.0,0.0,0.0,0.0
+357,Germany,Freiburg,Schopfheim,5.0,5.0,1.0,0.00031498047121078493
+358,Germany,Freiburg,Schramberg,2.0,2.0,1.0,0.00012599218848431397
+359,Germany,Freiburg,Schutterwald,10.0,10.0,1.0,0.0006299609424215699
+360,Germany,Freiburg,Sulz am Neckar,61.0,39.0,0.639344262295082,0.0024568476754441224
+361,Germany,Freiburg,Titisee-Neustadt,1.0,0.0,0.0,0.0
+362,Germany,Freiburg,Tuttlingen,2.0,0.0,0.0,0.0
+363,Germany,Freiburg,Vogtsburg,2.0,2.0,1.0,0.00012599218848431397
+364,Germany,Freiburg,Vohringen,1.0,1.0,1.0,6.299609424215698e-05
+365,Germany,Freiburg,Waldkirch,10.0,6.0,0.6,0.00037797656545294193
+366,Germany,Freiburg,Waldshut-Tiengen,2.0,0.0,0.0,0.0
+367,Germany,Freiburg,Wolfach,45.0,36.0,0.8,0.0022678593927176515
+368,Germany,Freiburg,Zell am Harmersbach,5.0,1.0,0.2,6.299609424215698e-05
+369,Germany,Giessen,Dillenburg,2.0,1.0,0.5,6.299609424215698e-05
+370,Germany,Giessen,Langgons,4.0,0.0,0.0,0.0
+371,Germany,Giessen,Limburg,1.0,1.0,1.0,6.299609424215698e-05
+372,Germany,Giessen,Rabenau,1.0,0.0,0.0,0.0
+373,Germany,Giessen,Villmar,2.0,0.0,0.0,0.0
+374,Germany,Hamburg,Hamburg,4.0,4.0,1.0,0.00025198437696862794
+375,Germany,Hannover,Hildesheim,4.0,4.0,1.0,0.00025198437696862794
+376,Germany,Karlsruhe,Alpirsbach,20.0,0.0,0.0,0.0
+377,Germany,Karlsruhe,Altensteig,5.0,0.0,0.0,0.0
+378,Germany,Karlsruhe,Bad Herrenalb,1.0,0.0,0.0,0.0
+379,Germany,Karlsruhe,Bad Liebenzell,2.0,1.0,0.5,6.299609424215698e-05
+380,Germany,Karlsruhe,Bad Wildbad,1.0,0.0,0.0,0.0
+381,Germany,Karlsruhe,Baden-Baden,124.0,123.0,0.9919354838709677,0.00774851959178531
+382,Germany,Karlsruhe,Bietigheim,11.0,0.0,0.0,0.0
+383,Germany,Karlsruhe,Bildechingen,1.0,0.0,0.0,0.0
+384,Germany,Karlsruhe,Bretten,2.0,2.0,1.0,0.00012599218848431397
+385,Germany,Karlsruhe,Buhl,73.0,73.0,1.0,0.00459871487967746
+386,Germany,Karlsruhe,Calw,24.0,2.0,0.08333333333333333,0.00012599218848431397
+387,Germany,Karlsruhe,Dornstetten,11.0,2.0,0.18181818181818182,0.00012599218848431397
+388,Germany,Karlsruhe,Ettlingen,2.0,2.0,1.0,0.00012599218848431397
+389,Germany,Karlsruhe,Freudenstadt,12.0,5.0,0.4166666666666667,0.00031498047121078493
+390,Germany,Karlsruhe,Heidelberg,4.0,3.0,0.75,0.00018898828272647097
+391,Germany,Karlsruhe,Hirsau,2.0,0.0,0.0,0.0
+392,Germany,Karlsruhe,Horb am Neckar,81.0,67.0,0.8271604938271605,0.004220738314224518
+393,Germany,Karlsruhe,Kampfelbach,6.0,6.0,1.0,0.00037797656545294193
+394,Germany,Karlsruhe,Karlsruhe,2.0,0.0,0.0,0.0
+395,Germany,Karlsruhe,Knittlingen,1.0,0.0,0.0,0.0
+396,Germany,Karlsruhe,Kuppenheim,6.0,6.0,1.0,0.00037797656545294193
+397,Germany,Karlsruhe,Lichtenau,1.0,0.0,0.0,0.0
+398,Germany,Karlsruhe,Muhringen,14.0,10.0,0.7142857142857143,0.0006299609424215699
+399,Germany,Karlsruhe,Nagold,3.0,0.0,0.0,0.0
+400,Germany,Karlsruhe,Neibsheim,3.0,3.0,1.0,0.00018898828272647097
+401,Germany,Karlsruhe,Neuenburg,7.0,0.0,0.0,0.0
+402,Germany,Karlsruhe,Pforzheim,8.0,0.0,0.0,0.0
+403,Germany,Karlsruhe,Rastatt,8.0,8.0,1.0,0.0005039687539372559
+404,Germany,Karlsruhe,Sinsheim,2.0,0.0,0.0,0.0
+405,Germany,Karlsruhe,Wildberg,3.0,0.0,0.0,0.0
+406,Germany,Kassel,Lichtenfels,1.0,0.0,0.0,0.0
+407,Germany,Kassel,Poppenhausen,4.0,0.0,0.0,0.0
+408,Germany,Koblenz,Landau,12.0,0.0,0.0,0.0
+409,Germany,Koblenz,Rothenbach,1.0,0.0,0.0,0.0
+410,Germany,Koln,Bergheim,1.0,0.0,0.0,0.0
+411,Germany,Koln,Cologne,9.0,3.0,0.3333333333333333,0.00018898828272647097
+412,Germany,Luneburg,Stade,4.0,3.0,0.75,0.00018898828272647097
+413,Germany,Mittelfranken,Abensberg,69.0,1.0,0.014492753623188406,6.299609424215698e-05
+414,Germany,Mittelfranken,Aichach,22.0,0.0,0.0,0.0
+415,Germany,Mittelfranken,Altotting,1.0,0.0,0.0,0.0
+416,Germany,Mittelfranken,Amberg,17.0,3.0,0.17647058823529413,0.00018898828272647097
+417,Germany,Mittelfranken,Apfeldorf,1.0,0.0,0.0,0.0
+418,Germany,Mittelfranken,Aschau,2.0,0.0,0.0,0.0
+419,Germany,Mittelfranken,Augsburg,166.0,26.0,0.1566265060240964,0.0016378984502960817
+420,Germany,Mittelfranken,Aurach,1.0,0.0,0.0,0.0
+421,Germany,Mittelfranken,Bad Aibling,44.0,1.0,0.022727272727272728,6.299609424215698e-05
+422,Germany,Mittelfranken,Bad Griesbach,10.0,0.0,0.0,0.0
+423,Germany,Mittelfranken,Bad Kotzting,4.0,0.0,0.0,0.0
+424,Germany,Mittelfranken,Bad Reichenhall,15.0,0.0,0.0,0.0
+425,Germany,Mittelfranken,Bad Tolz,11.0,1.0,0.09090909090909091,6.299609424215698e-05
+426,Germany,Mittelfranken,Berchtesgaden,2.0,2.0,1.0,0.00012599218848431397
+427,Germany,Mittelfranken,Bernbeuren,4.0,0.0,0.0,0.0
+428,Germany,Mittelfranken,Bobingen,17.0,4.0,0.23529411764705882,0.00025198437696862794
+429,Germany,Mittelfranken,Bogen,1.0,1.0,1.0,6.299609424215698e-05
+430,Germany,Mittelfranken,Breitenbrunn,1.0,0.0,0.0,0.0
+431,Germany,Mittelfranken,Buchloe,2.0,1.0,0.5,6.299609424215698e-05
+432,Germany,Mittelfranken,Burgau,12.0,10.0,0.8333333333333334,0.0006299609424215699
+433,Germany,Mittelfranken,Burghausen,83.0,18.0,0.21686746987951808,0.0011339296963588257
+434,Germany,Mittelfranken,Burgheim,2.0,0.0,0.0,0.0
+435,Germany,Mittelfranken,Burglengenfeld,12.0,0.0,0.0,0.0
+436,Germany,Mittelfranken,Cham,4.0,0.0,0.0,0.0
+437,Germany,Mittelfranken,Dachau,38.0,2.0,0.05263157894736842,0.00012599218848431397
+438,Germany,Mittelfranken,Deggendorf,11.0,6.0,0.5454545454545454,0.00037797656545294193
+439,Germany,Mittelfranken,Dillingen an der Donau,63.0,47.0,0.746031746031746,0.0029608164293813783
+440,Germany,Mittelfranken,Dingolfing,37.0,2.0,0.05405405405405406,0.00012599218848431397
+441,Germany,Mittelfranken,Dinkelscherben,4.0,1.0,0.25,6.299609424215698e-05
+442,Germany,Mittelfranken,Donauworth,57.0,15.0,0.2631578947368421,0.0009449414136323547
+443,Germany,Mittelfranken,Durlach,1.0,0.0,0.0,0.0
+444,Germany,Mittelfranken,Durrwangen,2.0,2.0,1.0,0.00012599218848431397
+445,Germany,Mittelfranken,Edenbergen,1.0,0.0,0.0,0.0
+446,Germany,Mittelfranken,Eggenfelden,2.0,0.0,0.0,0.0
+447,Germany,Mittelfranken,Eggenthal,2.0,0.0,0.0,0.0
+448,Germany,Mittelfranken,Erding,19.0,6.0,0.3157894736842105,0.00037797656545294193
+449,Germany,Mittelfranken,Essing,1.0,0.0,0.0,0.0
+450,Germany,Mittelfranken,Feuchtwangen,3.0,0.0,0.0,0.0
+451,Germany,Mittelfranken,Freising,144.0,102.0,0.7083333333333334,0.006425601612700013
+452,Germany,Mittelfranken,Friedberg,22.0,0.0,0.0,0.0
+453,Germany,Mittelfranken,Fursteneck,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+454,Germany,Mittelfranken,Garmisch-Partenkirchen,3.0,0.0,0.0,0.0
+455,Germany,Mittelfranken,Geisenfeld,1.0,0.0,0.0,0.0
+456,Germany,Mittelfranken,Grafenau,3.0,0.0,0.0,0.0
+457,Germany,Mittelfranken,Grossaitingen,4.0,1.0,0.25,6.299609424215698e-05
+458,Germany,Mittelfranken,Gundelfingen,2.0,0.0,0.0,0.0
+459,Germany,Mittelfranken,Haag in Oberbayern,15.0,0.0,0.0,0.0
+460,Germany,Mittelfranken,Haldenwang,1.0,0.0,0.0,0.0
+461,Germany,Mittelfranken,Heideck,1.0,0.0,0.0,0.0
+462,Germany,Mittelfranken,Hemau,34.0,15.0,0.4411764705882353,0.0009449414136323547
+463,Germany,Mittelfranken,Hengersberg,22.0,4.0,0.18181818181818182,0.00025198437696862794
+464,Germany,Mittelfranken,Hilpoltstein,1.0,1.0,1.0,6.299609424215698e-05
+465,Germany,Mittelfranken,Hochstadt an der Donau,12.0,7.0,0.5833333333333334,0.00044097265969509893
+466,Germany,Mittelfranken,Illertissen,1.0,0.0,0.0,0.0
+467,Germany,Mittelfranken,Immenstadt,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+468,Germany,Mittelfranken,Ingolstadt,87.0,29.0,0.3333333333333333,0.0018268867330225526
+469,Germany,Mittelfranken,Irsee,2.0,0.0,0.0,0.0
+470,Germany,Mittelfranken,Kallmunz,6.0,0.0,0.0,0.0
+471,Germany,Mittelfranken,Kaltental,7.0,0.0,0.0,0.0
+472,Germany,Mittelfranken,Kaufbeuren,22.0,13.0,0.5909090909090909,0.0008189492251480409
+473,Germany,Mittelfranken,Kelheim,12.0,1.0,0.08333333333333333,6.299609424215698e-05
+474,Germany,Mittelfranken,Kellmunz,5.0,5.0,1.0,0.00031498047121078493
+475,Germany,Mittelfranken,Kempten,22.0,3.0,0.13636363636363635,0.00018898828272647097
+476,Germany,Mittelfranken,Kirchberg,3.0,0.0,0.0,0.0
+477,Germany,Mittelfranken,Kosching,4.0,0.0,0.0,0.0
+478,Germany,Mittelfranken,Kotz,4.0,0.0,0.0,0.0
+479,Germany,Mittelfranken,Kraftisried,1.0,0.0,0.0,0.0
+480,Germany,Mittelfranken,Kraiburg,2.0,0.0,0.0,0.0
+481,Germany,Mittelfranken,Kranzberg,25.0,0.0,0.0,0.0
+482,Germany,Mittelfranken,Kronburg,1.0,0.0,0.0,0.0
+483,Germany,Mittelfranken,Krumbach,1.0,0.0,0.0,0.0
+484,Germany,Mittelfranken,Laaber,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+485,Germany,Mittelfranken,Landsberg am Lech,20.0,1.0,0.05,6.299609424215698e-05
+486,Germany,Mittelfranken,Landshut,37.0,9.0,0.24324324324324326,0.0005669648481794129
+487,Germany,Mittelfranken,Laufen,10.0,6.0,0.6,0.00037797656545294193
+488,Germany,Mittelfranken,Lauingen,24.0,4.0,0.16666666666666666,0.00025198437696862794
+489,Germany,Mittelfranken,Lengdorf,5.0,2.0,0.4,0.00012599218848431397
+490,Germany,Mittelfranken,Leuchtenberg,2.0,0.0,0.0,0.0
+491,Germany,Mittelfranken,Lindau,18.0,5.0,0.2777777777777778,0.00031498047121078493
+492,Germany,Mittelfranken,Mainburg,21.0,0.0,0.0,0.0
+493,Germany,Mittelfranken,Markt Schwaben,14.0,0.0,0.0,0.0
+494,Germany,Mittelfranken,Marktoberdorf,114.0,109.0,0.956140350877193,0.006866574272395111
+495,Germany,Mittelfranken,Marktoffingen,1.0,0.0,0.0,0.0
+496,Germany,Mittelfranken,Marquartstein,11.0,0.0,0.0,0.0
+497,Germany,Mittelfranken,Memmingen,56.0,21.0,0.375,0.0013229179790852966
+498,Germany,Mittelfranken,Miesbach,1.0,0.0,0.0,0.0
+499,Germany,Mittelfranken,Mindelheim,17.0,3.0,0.17647058823529413,0.00018898828272647097
+500,Germany,Mittelfranken,Mitterfels,107.0,15.0,0.14018691588785046,0.0009449414136323547
+501,Germany,Mittelfranken,Monheim,8.0,2.0,0.25,0.00012599218848431397
+502,Germany,Mittelfranken,Moosburg,17.0,3.0,0.17647058823529413,0.00018898828272647097
+503,Germany,Mittelfranken,Muhldorf,27.0,2.0,0.07407407407407407,0.00012599218848431397
+504,Germany,Mittelfranken,Munich,174.0,13.0,0.07471264367816093,0.0008189492251480409
+505,Germany,Mittelfranken,Murnau am Staffelsee,1.0,0.0,0.0,0.0
+506,Germany,Mittelfranken,Nesselwang,4.0,1.0,0.25,6.299609424215698e-05
+507,Germany,Mittelfranken,Neuburg an der Donau,43.0,16.0,0.37209302325581395,0.0010079375078745117
+508,Germany,Mittelfranken,Neumarkt in der Oberpfalz,3.0,0.0,0.0,0.0
+509,Germany,Mittelfranken,Neumarkt-Sankt Veit,9.0,0.0,0.0,0.0
+510,Germany,Mittelfranken,Neuotting,2.0,0.0,0.0,0.0
+511,Germany,Mittelfranken,Neustadt an der Donau,18.0,5.0,0.2777777777777778,0.00031498047121078493
+512,Germany,Mittelfranken,Nordlingen,105.0,54.0,0.5142857142857142,0.003401789089076477
+513,Germany,Mittelfranken,Nuremberg,20.0,0.0,0.0,0.0
+514,Germany,Mittelfranken,Nurnberg,1.0,0.0,0.0,0.0
+515,Germany,Mittelfranken,Obergunzburg,1.0,1.0,1.0,6.299609424215698e-05
+516,Germany,Mittelfranken,Oettingen,3.0,0.0,0.0,0.0
+517,Germany,Mittelfranken,Osterzell,9.0,9.0,1.0,0.0005669648481794129
+518,Germany,Mittelfranken,Ottobeuren,1.0,1.0,1.0,6.299609424215698e-05
+519,Germany,Mittelfranken,Pappenheim,1.0,0.0,0.0,0.0
+520,Germany,Mittelfranken,Pfaffenhofen,70.0,0.0,0.0,0.0
+521,Germany,Mittelfranken,Pfarrkirchen,1.0,0.0,0.0,0.0
+522,Germany,Mittelfranken,Pfronten,6.0,2.0,0.3333333333333333,0.00012599218848431397
+523,Germany,Mittelfranken,Rain,47.0,10.0,0.2127659574468085,0.0006299609424215699
+524,Germany,Mittelfranken,Regen,8.0,0.0,0.0,0.0
+525,Germany,Mittelfranken,Regensburg,98.0,48.0,0.4897959183673469,0.0030238125236235354
+526,Germany,Mittelfranken,Regenstauf,1.0,0.0,0.0,0.0
+527,Germany,Mittelfranken,Reichenberg,2.0,0.0,0.0,0.0
+528,Germany,Mittelfranken,Reichertshofen,129.0,93.0,0.7209302325581395,0.0058586367645206
+529,Germany,Mittelfranken,Rettenberg,64.0,37.0,0.578125,0.0023308554869598086
+530,Germany,Mittelfranken,Riedenburg,20.0,0.0,0.0,0.0
+531,Germany,Mittelfranken,Roding,6.0,2.0,0.3333333333333333,0.00012599218848431397
+532,Germany,Mittelfranken,Rosenheim,19.0,1.0,0.05263157894736842,6.299609424215698e-05
+533,Germany,Mittelfranken,Rottenburg,5.0,0.0,0.0,0.0
+534,Germany,Mittelfranken,Saldenburg,8.0,0.0,0.0,0.0
+535,Germany,Mittelfranken,Salzweg,23.0,20.0,0.8695652173913043,0.0012599218848431397
+536,Germany,Mittelfranken,Schongau,79.0,70.0,0.8860759493670886,0.004409726596950989
+537,Germany,Mittelfranken,Schrobenhausen,39.0,0.0,0.0,0.0
+538,Germany,Mittelfranken,Schwabmunchen,76.0,53.0,0.6973684210526315,0.00333879299483432
+539,Germany,Mittelfranken,Spalt,2.0,2.0,1.0,0.00012599218848431397
+540,Germany,Mittelfranken,Starnberg,20.0,0.0,0.0,0.0
+541,Germany,Mittelfranken,Straubing,34.0,7.0,0.20588235294117646,0.00044097265969509893
+542,Germany,Mittelfranken,Sulzbach-Rosenberg,2.0,0.0,0.0,0.0
+543,Germany,Mittelfranken,Sulzberg,3.0,0.0,0.0,0.0
+544,Germany,Mittelfranken,Tapfheim,7.0,2.0,0.2857142857142857,0.00012599218848431397
+545,Germany,Mittelfranken,Teisendorf,3.0,0.0,0.0,0.0
+546,Germany,Mittelfranken,Thannhausen,46.0,2.0,0.043478260869565216,0.00012599218848431397
+547,Germany,Mittelfranken,Tittmoning,4.0,2.0,0.5,0.00012599218848431397
+548,Germany,Mittelfranken,Traunstein,48.0,0.0,0.0,0.0
+549,Germany,Mittelfranken,Trostberg,5.0,0.0,0.0,0.0
+550,Germany,Mittelfranken,Turkenfeld,1.0,0.0,0.0,0.0
+551,Germany,Mittelfranken,Turkheim,2.0,0.0,0.0,0.0
+552,Germany,Mittelfranken,Unterfohring,5.0,4.0,0.8,0.00025198437696862794
+553,Germany,Mittelfranken,Untermeitingen,1.0,0.0,0.0,0.0
+554,Germany,Mittelfranken,Unterthingau,8.0,0.0,0.0,0.0
+555,Germany,Mittelfranken,Velburg,1.0,0.0,0.0,0.0
+556,Germany,Mittelfranken,Viechtach,2.0,0.0,0.0,0.0
+557,Germany,Mittelfranken,Vilsbiburg,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+558,Germany,Mittelfranken,Vilshofen an der Donau,2.0,0.0,0.0,0.0
+559,Germany,Mittelfranken,Vohburg,59.0,2.0,0.03389830508474576,0.00012599218848431397
+560,Germany,Mittelfranken,Wallerstein,63.0,60.0,0.9523809523809523,0.003779765654529419
+561,Germany,Mittelfranken,Wasserburg am Bodensee,57.0,25.0,0.43859649122807015,0.0015749023560539246
+562,Germany,Mittelfranken,Wasserburg am Inn,22.0,1.0,0.045454545454545456,6.299609424215698e-05
+563,Germany,Mittelfranken,Weiden in der Oberpfalz,2.0,0.0,0.0,0.0
+564,Germany,Mittelfranken,Weilheim,36.0,5.0,0.1388888888888889,0.00031498047121078493
+565,Germany,Mittelfranken,Weissenhorn,1.0,1.0,1.0,6.299609424215698e-05
+566,Germany,Mittelfranken,Weitnau,2.0,0.0,0.0,0.0
+567,Germany,Mittelfranken,Wemding,117.0,84.0,0.717948717948718,0.0052916719163411865
+568,Germany,Mittelfranken,Wertingen,2.0,0.0,0.0,0.0
+569,Germany,Mittelfranken,Wiesent,3.0,0.0,0.0,0.0
+570,Germany,Mittelfranken,Wittislingen,1.0,0.0,0.0,0.0
+571,Germany,Mittelfranken,Wolfratshausen,25.0,0.0,0.0,0.0
+572,Germany,Mittelfranken,Zoschingen,2.0,0.0,0.0,0.0
+573,Germany,Mittelfranken,Zusmarshausen,15.0,5.0,0.3333333333333333,0.00031498047121078493
+574,Germany,Mittelfranken,Zwiesel,3.0,2.0,0.6666666666666666,0.00012599218848431397
+575,Germany,Niederbayern,Landshut,1.0,0.0,0.0,0.0
+576,Germany,Niederbayern,Straubing,1.0,1.0,1.0,6.299609424215698e-05
+577,Germany,Oberbayern,Burgrain,4.0,0.0,0.0,0.0
+578,Germany,Oberbayern,Gerolfing,7.0,0.0,0.0,0.0
+579,Germany,Oberbayern,Holzkirchen,1.0,1.0,1.0,6.299609424215698e-05
+580,Germany,Oberfranken,Bamberg,5.0,0.0,0.0,0.0
+581,Germany,Oberfranken,Grossheirath,4.0,4.0,1.0,0.00025198437696862794
+582,Germany,Oberfranken,Mainleus,5.0,5.0,1.0,0.00031498047121078493
+583,Germany,Oberpfalz,Lissenthan,5.0,0.0,0.0,0.0
+584,Germany,Oberpfalz,Regensburg,2.0,1.0,0.5,6.299609424215698e-05
+585,Germany,Rheinhessen-Pfalz,Nieder-Hauenstein,1.0,1.0,1.0,6.299609424215698e-05
+586,Germany,Saarland,Homburg,60.0,54.0,0.9,0.003401789089076477
+587,Germany,Saarland,Merzig,60.0,18.0,0.3,0.0011339296963588257
+588,Germany,Saarland,Rehlingen-Siersburg,30.0,18.0,0.6,0.0011339296963588257
+589,Germany,Saarland,Uberherrn,18.0,12.0,0.6666666666666666,0.0007559531309058839
+590,Germany,Saarland,Wallerfangen,88.0,54.0,0.6136363636363636,0.003401789089076477
+591,Germany,Schwaben,Augsburg,4.0,0.0,0.0,0.0
+592,Germany,Schwaben,Barnstein,23.0,1.0,0.043478260869565216,6.299609424215698e-05
+593,Germany,Schwaben,Burgau,6.0,6.0,1.0,0.00037797656545294193
+594,Germany,Schwaben,Gremheim,1.0,0.0,0.0,0.0
+595,Germany,Schwaben,Illerbeuren,1.0,1.0,1.0,6.299609424215698e-05
+596,Germany,Schwaben,Illereichen,10.0,0.0,0.0,0.0
+597,Germany,Schwaben,Kempten,1.0,0.0,0.0,0.0
+598,Germany,Schwaben,Lindenberg,40.0,40.0,1.0,0.0025198437696862795
+599,Germany,Schwaben,Martinszell,1.0,1.0,1.0,6.299609424215698e-05
+600,Germany,Schwaben,Memmingen,15.0,15.0,1.0,0.0009449414136323547
+601,Germany,Schwaben,Mering,5.0,0.0,0.0,0.0
+602,Germany,Schwaben,Nordlingen,36.0,35.0,0.9722222222222222,0.0022048632984754944
+603,Germany,Schwaben,Oettingen in Bayern,22.0,22.0,1.0,0.0013859140733274537
+604,Germany,Schwaben,Ritzisried,1.0,0.0,0.0,0.0
+605,Germany,Schwaben,Wallerstein,1.0,0.0,0.0,0.0
+606,Germany,Schwaben,Weissenhorn,1.0,0.0,0.0,0.0
+607,Germany,Schwaben,Wengen,14.0,11.0,0.7857142857142857,0.0006929570366637269
+608,Germany,Stuttgart,Aalen,1.0,0.0,0.0,0.0
+609,Germany,Stuttgart,Asperg,1.0,0.0,0.0,0.0
+610,Germany,Stuttgart,Backnang,7.0,1.0,0.14285714285714285,6.299609424215698e-05
+611,Germany,Stuttgart,Bad Mergentheim,165.0,139.0,0.8424242424242424,0.00875645709965982
+612,Germany,Stuttgart,Bad Rappenau,1.0,1.0,1.0,6.299609424215698e-05
+613,Germany,Stuttgart,Bad Wimpfen,2.0,2.0,1.0,0.00012599218848431397
+614,Germany,Stuttgart,Beilstein,10.0,0.0,0.0,0.0
+615,Germany,Stuttgart,Besigheim,5.0,1.0,0.2,6.299609424215698e-05
+616,Germany,Stuttgart,Beuren,1.0,0.0,0.0,0.0
+617,Germany,Stuttgart,Boblingen,26.0,8.0,0.3076923076923077,0.0005039687539372559
+618,Germany,Stuttgart,Boll,1.0,1.0,1.0,6.299609424215698e-05
+619,Germany,Stuttgart,Bottwar,2.0,0.0,0.0,0.0
+620,Germany,Stuttgart,Brackenheim,14.0,1.0,0.07142857142857142,6.299609424215698e-05
+621,Germany,Stuttgart,Crailsheim,10.0,5.0,0.5,0.00031498047121078493
+622,Germany,Stuttgart,Dorzbach,3.0,2.0,0.6666666666666666,0.00012599218848431397
+623,Germany,Stuttgart,Ellwangen,401.0,396.0,0.9875311720698254,0.024946453319894167
+624,Germany,Stuttgart,Esslingen,74.0,46.0,0.6216216216216216,0.0028978203351392212
+625,Germany,Stuttgart,Fellbach,3.0,2.0,0.6666666666666666,0.00012599218848431397
+626,Germany,Stuttgart,Freudenberg am Main,60.0,59.0,0.9833333333333333,0.0037167695602872623
+627,Germany,Stuttgart,Gaildorf,11.0,11.0,1.0,0.0006929570366637269
+628,Germany,Stuttgart,Geislingen an der Steige,14.0,14.0,1.0,0.0008819453193901979
+629,Germany,Stuttgart,Gemmingen,1.0,1.0,1.0,6.299609424215698e-05
+630,Germany,Stuttgart,Giengen,1.0,1.0,1.0,6.299609424215698e-05
+631,Germany,Stuttgart,Goppingen,7.0,1.0,0.14285714285714285,6.299609424215698e-05
+632,Germany,Stuttgart,Grossbottwar,1.0,1.0,1.0,6.299609424215698e-05
+633,Germany,Stuttgart,Guglingen,4.0,0.0,0.0,0.0
+634,Germany,Stuttgart,Heidenheim,16.0,3.0,0.1875,0.00018898828272647097
+635,Germany,Stuttgart,Heilbronn,16.0,13.0,0.8125,0.0008189492251480409
+636,Germany,Stuttgart,Herrenberg,16.0,0.0,0.0,0.0
+637,Germany,Stuttgart,Ingelfingen,14.0,14.0,1.0,0.0008819453193901979
+638,Germany,Stuttgart,Kirchheim unter Teck,16.0,2.0,0.125,0.00012599218848431397
+639,Germany,Stuttgart,Kongen,2.0,0.0,0.0,0.0
+640,Germany,Stuttgart,Kraichgau,1.0,1.0,1.0,6.299609424215698e-05
+641,Germany,Stuttgart,Krautheim,2.0,2.0,1.0,0.00012599218848431397
+642,Germany,Stuttgart,Lauda-Konigshofen,10.0,10.0,1.0,0.0006299609424215699
+643,Germany,Stuttgart,Lauffen,8.0,0.0,0.0,0.0
+644,Germany,Stuttgart,Leonberg,23.0,6.0,0.2608695652173913,0.00037797656545294193
+645,Germany,Stuttgart,Marbach am Neckar,11.0,4.0,0.36363636363636365,0.00025198437696862794
+646,Germany,Stuttgart,Mockmuhl,10.0,0.0,0.0,0.0
+647,Germany,Stuttgart,Neuenstadt am Kocher,38.0,4.0,0.10526315789473684,0.00025198437696862794
+648,Germany,Stuttgart,Neuffen,4.0,0.0,0.0,0.0
+649,Germany,Stuttgart,Neuhausen auf den Fildern,1.0,0.0,0.0,0.0
+650,Germany,Stuttgart,Niedernhall,9.0,7.0,0.7777777777777778,0.00044097265969509893
+651,Germany,Stuttgart,Niederstetten,1.0,1.0,1.0,6.299609424215698e-05
+652,Germany,Stuttgart,Nurtingen,6.0,1.0,0.16666666666666666,6.299609424215698e-05
+653,Germany,Stuttgart,Obersontheim,1.0,0.0,0.0,0.0
+654,Germany,Stuttgart,Ohringen,2.0,2.0,1.0,0.00012599218848431397
+655,Germany,Stuttgart,Owen,4.0,0.0,0.0,0.0
+656,Germany,Stuttgart,Sachsenheim,4.0,0.0,0.0,0.0
+657,Germany,Stuttgart,Schorndorf,16.0,0.0,0.0,0.0
+658,Germany,Stuttgart,Schwabisch Gmund,51.0,48.0,0.9411764705882353,0.0030238125236235354
+659,Germany,Stuttgart,Schwabisch Hall,13.0,9.0,0.6923076923076923,0.0005669648481794129
+660,Germany,Stuttgart,Sindelfingen,42.0,21.0,0.5,0.0013229179790852966
+661,Germany,Stuttgart,Stuttgart,66.0,22.0,0.3333333333333333,0.0013859140733274537
+662,Germany,Stuttgart,Waiblingen,6.0,0.0,0.0,0.0
+663,Germany,Stuttgart,Weil der Stadt,4.0,3.0,0.75,0.00018898828272647097
+664,Germany,Stuttgart,Weinsberg,26.0,0.0,0.0,0.0
+665,Germany,Stuttgart,Wertheim am Main,137.0,56.0,0.40875912408759124,0.0035277812775607914
+666,Germany,Stuttgart,Wiesensteig,92.0,92.0,1.0,0.0057956406702784425
+667,Germany,Stuttgart,Winnenden,3.0,0.0,0.0,0.0
+668,Germany,Trier,Bitburg,39.0,30.0,0.7692307692307693,0.0018898828272647095
+669,Germany,Tubingen,Altshausen,1.0,1.0,1.0,6.299609424215698e-05
+670,Germany,Tubingen,Bad Saulgau,7.0,6.0,0.8571428571428571,0.00037797656545294193
+671,Germany,Tubingen,Bad Urach,20.0,3.0,0.15,0.00018898828272647097
+672,Germany,Tubingen,Bad Waldsee,42.0,41.0,0.9761904761904762,0.0025828398639284366
+673,Germany,Tubingen,Bad Wurzach,47.0,46.0,0.9787234042553191,0.0028978203351392212
+674,Germany,Tubingen,Balingen,7.0,2.0,0.2857142857142857,0.00012599218848431397
+675,Germany,Tubingen,Bebenhausen,6.0,0.0,0.0,0.0
+676,Germany,Tubingen,Biberach,15.0,6.0,0.4,0.00037797656545294193
+677,Germany,Tubingen,Blaubeuren,8.0,1.0,0.125,6.299609424215698e-05
+678,Germany,Tubingen,Burladingen,1.0,0.0,0.0,0.0
+679,Germany,Tubingen,Durmentingen,2.0,1.0,0.5,6.299609424215698e-05
+680,Germany,Tubingen,Ebingen,2.0,0.0,0.0,0.0
+681,Germany,Tubingen,Ehingen,1.0,1.0,1.0,6.299609424215698e-05
+682,Germany,Tubingen,Friedrichshafen,3.0,0.0,0.0,0.0
+683,Germany,Tubingen,Gammertingen,1.0,1.0,1.0,6.299609424215698e-05
+684,Germany,Tubingen,Guggenhausen,3.0,3.0,1.0,0.00018898828272647097
+685,Germany,Tubingen,Haigerloch,9.0,9.0,1.0,0.0005669648481794129
+686,Germany,Tubingen,Hechingen,16.0,16.0,1.0,0.0010079375078745117
+687,Germany,Tubingen,Heiligkreuztal,1.0,1.0,1.0,6.299609424215698e-05
+688,Germany,Tubingen,Herbertingen,13.0,8.0,0.6153846153846154,0.0005039687539372559
+689,Germany,Tubingen,Hohenzollern,76.0,57.0,0.75,0.003590777371802948
+690,Germany,Tubingen,Hosskirch,1.0,1.0,1.0,6.299609424215698e-05
+691,Germany,Tubingen,Isny im Allgau,3.0,3.0,1.0,0.00018898828272647097
+692,Germany,Tubingen,Konigseggwald,1.0,1.0,1.0,6.299609424215698e-05
+693,Germany,Tubingen,Mengen,3.0,2.0,0.6666666666666666,0.00012599218848431397
+694,Germany,Tubingen,Messkirch,13.0,0.0,0.0,0.0
+695,Germany,Tubingen,Munsingen,3.0,0.0,0.0,0.0
+696,Germany,Tubingen,Neufra,1.0,0.0,0.0,0.0
+697,Germany,Tubingen,Obermarchtal,76.0,75.0,0.9868421052631579,0.004724707068161774
+698,Germany,Tubingen,Ochsenhausen,3.0,0.0,0.0,0.0
+699,Germany,Tubingen,Ravensburg,14.0,2.0,0.14285714285714285,0.00012599218848431397
+700,Germany,Tubingen,Reutlingen,31.0,25.0,0.8064516129032258,0.0015749023560539246
+701,Germany,Tubingen,Riedlingen,4.0,4.0,1.0,0.00025198437696862794
+702,Germany,Tubingen,Rosenfeld,5.0,2.0,0.4,0.00012599218848431397
+703,Germany,Tubingen,Rottenburg am Neckar,156.0,148.0,0.9487179487179487,0.009323421947839234
+704,Germany,Tubingen,Schomberg,2.0,2.0,1.0,0.00012599218848431397
+705,Germany,Tubingen,Stetten am kalten Markt,1.0,0.0,0.0,0.0
+706,Germany,Tubingen,Tettnang,1.0,1.0,1.0,6.299609424215698e-05
+707,Germany,Tubingen,Trochtelfingen,13.0,13.0,1.0,0.0008189492251480409
+708,Germany,Tubingen,Tubingen,21.0,1.0,0.047619047619047616,6.299609424215698e-05
+709,Germany,Tubingen,Uberlingen,21.0,21.0,1.0,0.0013229179790852966
+710,Germany,Tubingen,Ulm,15.0,14.0,0.9333333333333333,0.0008819453193901979
+711,Germany,Tubingen,Unlingen,7.0,7.0,1.0,0.00044097265969509893
+712,Germany,Tubingen,Veringenstadt,2.0,2.0,1.0,0.00012599218848431397
+713,Germany,Tubingen,Weingarten,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+714,Germany,Unterfranken,Hochberg,1.0,1.0,1.0,6.299609424215698e-05
+715,Germany,Unterfranken,Lohr,15.0,15.0,1.0,0.0009449414136323547
+716,Germany,Unterfranken,Triefenstein,1.0,0.0,0.0,0.0
+717,Germany,Unterfranken,Wollbach,1.0,1.0,1.0,6.299609424215698e-05
+718,Germany,Unterfranken,Wurzburg,219.0,219.0,1.0,0.01379614463903238
+719,Germany,Weser-Ems,Oldenburg,1.0,0.0,0.0,0.0
+720,Italy,Emilia-Romagna,Bologna,1.0,0.0,0.0,0.0
+721,Italy,Emilia-Romagna,Ferrara,1.0,1.0,1.0,6.299609424215698e-05
+722,Italy,Emilia-Romagna,Modena,1.0,0.0,0.0,0.0
+723,Italy,Lazio,Rome,3.0,2.0,0.6666666666666666,0.00012599218848431397
+724,Italy,Lombardia,Bormio,40.0,40.0,1.0,0.0025198437696862795
+725,Italy,Lombardia,Brescia,4.0,0.0,0.0,0.0
+726,Italy,Lombardia,Como,2.0,0.0,0.0,0.0
+727,Italy,Lombardia,Edolo,1.0,0.0,0.0,0.0
+728,Italy,Lombardia,Milan,4.0,2.0,0.5,0.00012599218848431397
+729,Italy,Marche,Ancona,1.0,0.0,0.0,0.0
+730,Italy,Piemonte,Novara,1.0,0.0,0.0,0.0
+731,Italy,Piemonte,Turin,1.0,0.0,0.0,0.0
+732,Italy,Toscana,Florence,9.0,2.0,0.2222222222222222,0.00012599218848431397
+733,Italy,Toscana,Pisa,1.0,0.0,0.0,0.0
+734,Italy,Toscana,Siena,1.0,0.0,0.0,0.0
+735,Italy,Trentino-Alto Adige,Brixen,2.0,0.0,0.0,0.0
+736,Italy,Trentino-Alto Adige,Salurn,2.0,1.0,0.5,6.299609424215698e-05
+737,Italy,Umbria,Perugia,1.0,1.0,1.0,6.299609424215698e-05
+738,Italy,Umbria,Todi,1.0,1.0,1.0,6.299609424215698e-05
+739,Italy,Veneto,Portogruaro,1.0,1.0,1.0,6.299609424215698e-05
+740,Italy,Veneto,Venice,511.0,0.0,0.0,0.0
+741,Luxembourg,Luxembourg (region),Grevenmacher,13.0,6.0,0.46153846153846156,0.00037797656545294193
+742,Luxembourg,Luxembourg (region),Luxembourg (city),172.0,66.0,0.38372093023255816,0.004157742219982361
+743,Luxembourg,Luxembourg (region),Remich,31.0,27.0,0.8709677419354839,0.0017008945445382386
+744,Netherlands,Flevoland,Schokland,2.0,0.0,0.0,0.0
+745,Netherlands,Friesland,Terschelling,1.0,0.0,0.0,0.0
+746,Netherlands,Friesland,Vlieland,3.0,0.0,0.0,0.0
+747,Netherlands,Gelderland,Putten,2.0,0.0,0.0,0.0
+748,Netherlands,Gelderland,Zutphen,4.0,1.0,0.25,6.299609424215698e-05
+749,Netherlands,Noord-Brabant,Drongelen,2.0,0.0,0.0,0.0
+750,Netherlands,Noord-Brabant,Geertruidenberg,1.0,0.0,0.0,0.0
+751,Netherlands,Noord-Brabant,Heusden,1.0,0.0,0.0,0.0
+752,Netherlands,Noord-Brabant,Werkendam,2.0,0.0,0.0,0.0
+753,Netherlands,Noord-Holland,Aalsmeer,1.0,0.0,0.0,0.0
+754,Netherlands,Noord-Holland,Abbekerk,1.0,0.0,0.0,0.0
+755,Netherlands,Noord-Holland,Alkmaar,17.0,0.0,0.0,0.0
+756,Netherlands,Noord-Holland,Amsterdam,37.0,6.0,0.16216216216216217,0.00037797656545294193
+757,Netherlands,Noord-Holland,Barsingerhorn,2.0,2.0,1.0,0.00012599218848431397
+758,Netherlands,Noord-Holland,Bennebroek,1.0,0.0,0.0,0.0
+759,Netherlands,Noord-Holland,Bergen,1.0,0.0,0.0,0.0
+760,Netherlands,Noord-Holland,Beverwijk,1.0,1.0,1.0,6.299609424215698e-05
+761,Netherlands,Noord-Holland,Edam,1.0,1.0,1.0,6.299609424215698e-05
+762,Netherlands,Noord-Holland,Enkhuizen,7.0,0.0,0.0,0.0
+763,Netherlands,Noord-Holland,Haarlem,44.0,2.0,0.045454545454545456,0.00012599218848431397
+764,Netherlands,Noord-Holland,Heemstede,1.0,0.0,0.0,0.0
+765,Netherlands,Noord-Holland,Heiloo,1.0,0.0,0.0,0.0
+766,Netherlands,Noord-Holland,Hoorn,6.0,0.0,0.0,0.0
+767,Netherlands,Noord-Holland,Huizen,1.0,0.0,0.0,0.0
+768,Netherlands,Noord-Holland,Krabbendam,1.0,0.0,0.0,0.0
+769,Netherlands,Noord-Holland,Medemblik,1.0,0.0,0.0,0.0
+770,Netherlands,Noord-Holland,Muiden,2.0,0.0,0.0,0.0
+771,Netherlands,Noord-Holland,Naarden,2.0,0.0,0.0,0.0
+772,Netherlands,Noord-Holland,Purmerend,1.0,0.0,0.0,0.0
+773,Netherlands,Noord-Holland,Schellinkhout,2.0,0.0,0.0,0.0
+774,Netherlands,Noord-Holland,Watergang,4.0,1.0,0.25,6.299609424215698e-05
+775,Netherlands,Noord-Holland,Wijk aan Zee,1.0,0.0,0.0,0.0
+776,Netherlands,Utrecht,Lange Linschoten,1.0,0.0,0.0,0.0
+777,Netherlands,Utrecht,Oudewater,2.0,0.0,0.0,0.0
+778,Netherlands,Utrecht,Utrecht,7.0,0.0,0.0,0.0
+779,Netherlands,Utrecht,Woerden,5.0,0.0,0.0,0.0
+780,Netherlands,Zeeland,Biervliet,1.0,0.0,0.0,0.0
+781,Netherlands,Zeeland,Borssele,2.0,0.0,0.0,0.0
+782,Netherlands,Zeeland,Breskens,1.0,0.0,0.0,0.0
+783,Netherlands,Zeeland,Domburg,1.0,0.0,0.0,0.0
+784,Netherlands,Zeeland,Goes,5.0,0.0,0.0,0.0
+785,Netherlands,Zeeland,Hoek,3.0,0.0,0.0,0.0
+786,Netherlands,Zeeland,Middelburg,6.0,0.0,0.0,0.0
+787,Netherlands,Zeeland,Ouwerkerk,1.0,0.0,0.0,0.0
+788,Netherlands,Zeeland,Reimerswaal,2.0,0.0,0.0,0.0
+789,Netherlands,Zeeland,Scherpenisse,3.0,0.0,0.0,0.0
+790,Netherlands,Zeeland,Sint-Annaland,1.0,0.0,0.0,0.0
+791,Netherlands,Zeeland,Sint-Maartensdijk,4.0,0.0,0.0,0.0
+792,Netherlands,Zeeland,Sluis,1.0,0.0,0.0,0.0
+793,Netherlands,Zeeland,Veere,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+794,Netherlands,Zeeland,Vlissingen,2.0,1.0,0.5,6.299609424215698e-05
+795,Netherlands,Zeeland,Vrouwenpolder,1.0,0.0,0.0,0.0
+796,Netherlands,Zeeland,Zierikzee,2.0,0.0,0.0,0.0
+797,Netherlands,Zuid-Holland,Arkel,1.0,0.0,0.0,0.0
+798,Netherlands,Zuid-Holland,Bergambacht,1.0,0.0,0.0,0.0
+799,Netherlands,Zuid-Holland,Brielle,5.0,2.0,0.4,0.00012599218848431397
+800,Netherlands,Zuid-Holland,Delft,14.0,6.0,0.42857142857142855,0.00037797656545294193
+801,Netherlands,Zuid-Holland,Dordrecht,7.0,2.0,0.2857142857142857,0.00012599218848431397
+802,Netherlands,Zuid-Holland,Goedereede,12.0,5.0,0.4166666666666667,0.00031498047121078493
+803,Netherlands,Zuid-Holland,Gorinchem,12.0,2.0,0.16666666666666666,0.00012599218848431397
+804,Netherlands,Zuid-Holland,Gouda,4.0,0.0,0.0,0.0
+805,Netherlands,Zuid-Holland,Groot-Ammers,1.0,0.0,0.0,0.0
+806,Netherlands,Zuid-Holland,Haastrecht,1.0,0.0,0.0,0.0
+807,Netherlands,Zuid-Holland,Hardinxveld-Giessendam,1.0,0.0,0.0,0.0
+808,Netherlands,Zuid-Holland,Hellevoetsluis,1.0,0.0,0.0,0.0
+809,Netherlands,Zuid-Holland,Hendrik-Ido-Ambacht,1.0,0.0,0.0,0.0
+810,Netherlands,Zuid-Holland,Langerak,1.0,0.0,0.0,0.0
+811,Netherlands,Zuid-Holland,Leiden,5.0,0.0,0.0,0.0
+812,Netherlands,Zuid-Holland,Leimuiden,1.0,0.0,0.0,0.0
+813,Netherlands,Zuid-Holland,Maassluis,3.0,0.0,0.0,0.0
+814,Netherlands,Zuid-Holland,Midden-Delfland,1.0,0.0,0.0,0.0
+815,Netherlands,Zuid-Holland,Mijnsheerenland,1.0,0.0,0.0,0.0
+816,Netherlands,Zuid-Holland,Molenwaard,1.0,0.0,0.0,0.0
+817,Netherlands,Zuid-Holland,Moordrecht,1.0,0.0,0.0,0.0
+818,Netherlands,Zuid-Holland,Noordwijk,3.0,0.0,0.0,0.0
+819,Netherlands,Zuid-Holland,Ooltgensplaat,2.0,0.0,0.0,0.0
+820,Netherlands,Zuid-Holland,Oudenhhorn,1.0,0.0,0.0,0.0
+821,Netherlands,Zuid-Holland,Ridderkerk,1.0,0.0,0.0,0.0
+822,Netherlands,Zuid-Holland,Rijsoord,1.0,0.0,0.0,0.0
+823,Netherlands,Zuid-Holland,Rotterdam,6.0,0.0,0.0,0.0
+824,Netherlands,Zuid-Holland,Schiedam,34.0,9.0,0.2647058823529412,0.0005669648481794129
+825,Netherlands,Zuid-Holland,Schoonhoven,4.0,2.0,0.5,0.00012599218848431397
+826,Netherlands,Zuid-Holland,Spijkenisse,2.0,0.0,0.0,0.0
+827,Netherlands,Zuid-Holland,The Hague,8.0,0.0,0.0,0.0
+828,Netherlands,Zuid-Holland,Vlaardingen,1.0,0.0,0.0,0.0
+829,Netherlands,Zuid-Holland,Voorburg,1.0,0.0,0.0,0.0
+830,Netherlands,Zuid-Holland,Zevenhuizen,1.0,0.0,0.0,0.0
+831,Netherlands,Zuid-Holland,Zwartewaal,1.0,0.0,0.0,0.0
+832,Netherlands,Zuid-Holland,Zwijndrecht,1.0,0.0,0.0,0.0
+833,Netherlands,Zuid-Holland,s-Gravenzande,1.0,0.0,0.0,0.0
+834,Poland,Greater Poland,Poznan,1.0,0.0,0.0,0.0
+835,Poland,Lower Silesian,Breslau,10.0,3.0,0.3,0.00018898828272647097
+836,Poland,Warmian-Masurian,Braunsberg,1.0,0.0,0.0,0.0
+837,Spain,Castilla y Leon,Miranda de Ebro,4.0,0.0,0.0,0.0
+838,Spain,Cataluna,Barcelona,2.0,0.0,0.0,0.0
+839,Spain,Cataluna,Vic,1.0,1.0,1.0,6.299609424215698e-05
+840,Spain,Comunidad Foral de Navarra,Arribe,11.0,0.0,0.0,0.0
+841,Spain,Comunidad Foral de Navarra,Bera,219.0,0.0,0.0,0.0
+842,Spain,Comunidad Foral de Navarra,Donamaria,129.0,0.0,0.0,0.0
+843,Spain,Comunidad Foral de Navarra,Doneztebe,169.0,0.0,0.0,0.0
+844,Spain,Comunidad Foral de Navarra,Erratzu,91.0,0.0,0.0,0.0
+845,Spain,Comunidad Foral de Navarra,Etxalar,101.0,0.0,0.0,0.0
+846,Spain,Comunidad Foral de Navarra,Igantzi,94.0,0.0,0.0,0.0
+847,Spain,Comunidad Foral de Navarra,Legasa,47.0,0.0,0.0,0.0
+848,Spain,Comunidad Foral de Navarra,Lesaka,253.0,0.0,0.0,0.0
+849,Spain,Comunidad Foral de Navarra,Lezaeta,20.0,0.0,0.0,0.0
+850,Spain,Comunidad Foral de Navarra,Pamplona,60.0,0.0,0.0,0.0
+851,Spain,Comunidad Foral de Navarra,Sunbilla,129.0,0.0,0.0,0.0
+852,Spain,Comunidad Foral de Navarra,Tafalla,1.0,0.0,0.0,0.0
+853,Spain,Comunidad Foral de Navarra,Zubieta,95.0,0.0,0.0,0.0
+854,Spain,Comunidad Foral de Navarra,Zugarramurdi,158.0,0.0,0.0,0.0
+855,Spain,Pais Vasco,Alegria-Dulantzi,1.0,0.0,0.0,0.0
+856,Spain,Pais Vasco,Andoain,4.0,0.0,0.0,0.0
+857,Spain,Pais Vasco,Bastida,2.0,0.0,0.0,0.0
+858,Spain,Pais Vasco,Eguino Entitatea,9.0,0.0,0.0,0.0
+859,Spain,Pais Vasco,Errenteria,111.0,0.0,0.0,0.0
+860,Spain,Pais Vasco,Gaztelu,13.0,0.0,0.0,0.0
+861,Spain,Pais Vasco,Hondarribia,166.0,0.0,0.0,0.0
+862,Spain,Pais Vasco,San Sebastian,48.0,0.0,0.0,0.0
+863,Spain,Pais Vasco,Urnieta,11.0,0.0,0.0,0.0
+864,Switzerland,Aargau,Baden,1.0,0.0,0.0,0.0
+865,Switzerland,Aargau,Habsburg,51.0,20.0,0.39215686274509803,0.0012599218848431397
+866,Switzerland,Aargau,Villigen,22.0,20.0,0.9090909090909091,0.0012599218848431397
+867,Switzerland,Basel-Landschaft,Liestal,1.0,1.0,1.0,6.299609424215698e-05
+868,Switzerland,Basel-Stadt,Basel,8.0,1.0,0.125,6.299609424215698e-05
+869,Switzerland,Bern,Bern,27.0,2.0,0.07407407407407407,0.00012599218848431397
+870,Switzerland,Bern,Biel,2.0,0.0,0.0,0.0
+871,Switzerland,Bern,Erlach,2.0,2.0,1.0,0.00012599218848431397
+872,Switzerland,Fribourg,Fribourg,42.0,27.0,0.6428571428571429,0.0017008945445382386
+873,Switzerland,Fribourg,Murten,1.0,1.0,1.0,6.299609424215698e-05
+874,Switzerland,Geneve,Geneva,121.0,35.0,0.2892561983471074,0.0022048632984754944
+875,Switzerland,Lucerne,Willisau,1.0,1.0,1.0,6.299609424215698e-05
+876,Switzerland,Neuchatel,Boudry,23.0,0.0,0.0,0.0
+877,Switzerland,Neuchatel,Colombier,17.0,0.0,0.0,0.0
+878,Switzerland,Neuchatel,Fleurier,29.0,0.0,0.0,0.0
+879,Switzerland,Neuchatel,Gorgier,4.0,0.0,0.0,0.0
+880,Switzerland,Neuchatel,Le Landeron,5.0,0.0,0.0,0.0
+881,Switzerland,Neuchatel,Neuchatel,21.0,0.0,0.0,0.0
+882,Switzerland,Neuchatel,Thielle-Wavre,14.0,0.0,0.0,0.0
+883,Switzerland,Neuchatel,Valangin,23.0,2.0,0.08695652173913043,0.00012599218848431397
+884,Switzerland,Schaffhausen,Stein am Rhein,2.0,0.0,0.0,0.0
+885,Switzerland,Solothurn,Busserach,1.0,1.0,1.0,6.299609424215698e-05
+886,Switzerland,Solothurn,Olten,1.0,0.0,0.0,0.0
+887,Switzerland,Ticino,Faido,34.0,0.0,0.0,0.0
+888,Switzerland,Ticino,Locarno,1.0,1.0,1.0,6.299609424215698e-05
+889,Switzerland,Ticino,Lugano,1.0,1.0,1.0,6.299609424215698e-05
+890,Switzerland,Valais,Conthey,2.0,0.0,0.0,0.0
+891,Switzerland,Valais,Viege,1.0,0.0,0.0,0.0
+892,Switzerland,Vaud,Lausanne,18.0,7.0,0.3888888888888889,0.00044097265969509893
+893,Switzerland,Zurich,Stofel,3.0,1.0,0.3333333333333333,6.299609424215698e-05
+894,United Kingdom,Bedfordshire and Hertfordshire,Hatfield,1.0,0.0,0.0,0.0
+895,United Kingdom,Bedfordshire and Hertfordshire,Hertford,1.0,0.0,0.0,0.0
+896,United Kingdom,Devon,Exeter,1.0,0.0,0.0,0.0
+897,United Kingdom,East Anglia,Ely,1.0,0.0,0.0,0.0
+898,United Kingdom,East Anglia,Rushbrooke,1.0,0.0,0.0,0.0
+899,United Kingdom,Hampshire and Isle of Wight,Winchester,3.0,0.0,0.0,0.0
+900,United Kingdom,Kent,Canterbury,1.0,0.0,0.0,0.0
+901,United Kingdom,"Leicestershire, Rutland and Northamptonshire",Wadenhoe,1.0,0.0,0.0,0.0
+902,United Kingdom,London,London,27.0,3.0,0.1111111111111111,0.00018898828272647097
+903,United Kingdom,London,Southwark,5.0,0.0,0.0,0.0
+904,United Kingdom,North Yorkshire,York,1.0,0.0,0.0,0.0
+905,United Kingdom,Tees Valley and Durham,Durham,7.0,0.0,0.0,0.0
+906,United Kingdom,West Midlands,Coventry,29.0,0.0,0.0,0.0
+3,Austria,Tirol,Undefigned Settlements,3.0,0.0,0.0,0.0
+12,Belgium,Namur,Undefigned Settlements,28.0,5.0,0.17857142857142858,0.00031498047121078493
+19,Estonia,Undefined Regions,Undefigned Settlements,205.0,65.0,0.3170731707317073,0.0040947461257402045
+20,Finland,Undefined Regions,Undefigned Settlements,710.0,115.0,0.1619718309859155,0.007244550837848054
+21,France,Alsace,Undefigned Settlements,90.0,63.0,0.7,0.00396875393725589
+24,France,Basse-Normandie,Undefigned Settlements,188.0,45.0,0.2393617021276596,0.0028348242408970646
+29,France,Franche-Comte,Undefigned Settlements,1.0,0.0,0.0,0.0
+30,France,Haute-Normandie,Undefigned Settlements,188.0,45.0,0.2393617021276596,0.0028348242408970646
+33,France,Lorraine,Undefigned Settlements,3.0,2.0,0.6666666666666666,0.00012599218848431397
+35,France,Nord-Pas-de-Calais,Undefigned Settlements,329.0,12.0,0.0364741641337386,0.0007559531309058839
+40,France,Rhone-Alpes,Undefigned Settlements,175.0,169.0,0.9657142857142857,0.010646339926924531
+46,Germany,Darmstadt,Undefigned Settlements,16.0,0.0,0.0,0.0
+49,Germany,Freiburg,Undefigned Settlements,1.0,0.0,0.0,0.0
+55,Germany,Koblenz,Undefigned Settlements,344.0,304.0,0.8837209302325582,0.019150812649615725
+58,Germany,Mecklenburg-Vorpommern,Undefigned Settlements,3844.0,0.0,0.0,0.0
+61,Germany,Oberbayern,Undefigned Settlements,236.0,0.0,0.0,0.0
+66,Germany,Sachsen-Anhalt,Undefigned Settlements,245.0,0.0,0.0,0.0
+68,Germany,Stuttgart,Undefigned Settlements,37.0,10.0,0.2702702702702703,0.0006299609424215699
+69,Germany,Trier,Undefigned Settlements,374.0,334.0,0.893048128342246,0.021040695476880433
+70,Germany,Tubingen,Undefigned Settlements,530.0,405.0,0.7641509433962265,0.02551341816807358
+73,Hungary,Undefined Regions,Undefigned Settlements,1644.0,474.0,0.28832116788321166,0.029860148670782412
+74,Ireland,Undefined Regions,Undefigned Settlements,52.0,1.0,0.019230769230769232,6.299609424215698e-05
+79,Italy,Piemonte,Undefigned Settlements,10.0,8.0,0.8,0.0005039687539372559
+82,Italy,Umbria,Undefigned Settlements,1.0,0.0,0.0,0.0
+87,Netherlands,Gelderland,Undefigned Settlements,3.0,0.0,0.0,0.0
+93,Norway,Undefined Regions,Undefigned Settlements,863.0,280.0,0.32444959443800697,0.017638906387803955
+101,Sweden,Blekinge,Undefigned Settlements,15.0,0.0,0.0,0.0
+102,Sweden,Halland,Undefigned Settlements,7.0,0.0,0.0,0.0
+103,Sweden,Jonkoping,Undefigned Settlements,24.0,0.0,0.0,0.0
+104,Sweden,Kalmar,Undefigned Settlements,36.0,0.0,0.0,0.0
+105,Sweden,Kronoberg,Undefigned Settlements,16.0,0.0,0.0,0.0
+106,Sweden,Ostergotland,Undefigned Settlements,29.0,0.0,0.0,0.0
+107,Sweden,Skane,Undefigned Settlements,36.0,0.0,0.0,0.0
+108,Sweden,Varmland,Undefigned Settlements,30.0,0.0,0.0,0.0
+109,Sweden,Vastra Gotaland,Undefigned Settlements,83.0,0.0,0.0,0.0
+110,Switzerland,Aargau,Undefigned Settlements,70.0,67.0,0.9571428571428572,0.004220738314224518
+111,Switzerland,Appenzell Ausserrhoden,Undefigned Settlements,30.0,30.0,1.0,0.0018898828272647095
+112,Switzerland,Appenzell Innerrhoden,Undefigned Settlements,61.0,35.0,0.5737704918032787,0.0022048632984754944
+113,Switzerland,Basel-Landschaft,Undefigned Settlements,75.0,55.0,0.7333333333333333,0.0034647851833186343
+114,Switzerland,Basel-Stadt,Undefigned Settlements,35.0,10.0,0.2857142857142857,0.0006299609424215699
+115,Switzerland,Bern,Undefigned Settlements,59.0,15.0,0.2542372881355932,0.0009449414136323547
+116,Switzerland,Fribourg,Undefigned Settlements,1230.0,330.0,0.2682926829268293,0.020788711099911806
+117,Switzerland,Geneve,Undefigned Settlements,176.0,71.0,0.4034090909090909,0.004472722691193146
+118,Switzerland,Glarus,Undefigned Settlements,1.0,1.0,1.0,6.299609424215698e-05
+119,Switzerland,Graubunden,Undefigned Settlements,543.0,249.0,0.4585635359116022,0.01568602746629709
+120,Switzerland,Lucerne,Undefigned Settlements,761.0,167.0,0.21944809461235218,0.010520347738440216
+121,Switzerland,Neuchatel,Undefigned Settlements,649.0,226.0,0.34822804314329736,0.014237117298727479
+122,Switzerland,Nidwalden,Undefigned Settlements,90.0,85.0,0.9444444444444444,0.005354668010583344
+123,Switzerland,Obwalden,Undefigned Settlements,90.0,85.0,0.9444444444444444,0.005354668010583344
+124,Switzerland,Sankt Gallen,Undefigned Settlements,45.0,18.0,0.4,0.0011339296963588257
+126,Switzerland,Schwyz,Undefigned Settlements,45.0,30.0,0.6666666666666666,0.0018898828272647095
+127,Switzerland,Solothurn,Undefigned Settlements,145.0,60.0,0.41379310344827586,0.003779765654529419
+128,Switzerland,Thurgau,Undefigned Settlements,5.0,2.0,0.4,0.00012599218848431397
+129,Switzerland,Ticino,Undefigned Settlements,254.0,122.0,0.48031496062992124,0.007685523497543152
+130,Switzerland,Uri,Undefigned Settlements,6.0,3.0,0.5,0.00018898828272647097
+131,Switzerland,Valais,Undefigned Settlements,819.0,305.0,0.3724053724053724,0.01921380874385788
+132,Switzerland,Vaud,Undefigned Settlements,3373.0,3371.0,0.9994070560332049,0.2123598336903112
+133,Switzerland,Zug,Undefigned Settlements,24.0,22.0,0.9166666666666666,0.0013859140733274537
+134,Switzerland,Zurich,Undefigned Settlements,219.0,68.0,0.3105022831050228,0.004283734408466675
+135,United Kingdom,Bedfordshire and Hertfordshire,Undefigned Settlements,21.0,9.0,0.42857142857142855,0.0005669648481794129
+136,United Kingdom,"Berkshire, Buckinghamshire and Oxfordshire",Undefigned Settlements,11.0,6.0,0.5454545454545454,0.00037797656545294193
+137,United Kingdom,Cornwall and Isles of Scilly,Undefigned Settlements,18.0,2.0,0.1111111111111111,0.00012599218848431397
+138,United Kingdom,Cumbria,Undefigned Settlements,1.0,0.0,0.0,0.0
+139,United Kingdom,Derbyshire and Nottinghamshire,Undefigned Settlements,22.0,3.0,0.13636363636363635,0.00018898828272647097
+140,United Kingdom,Devon,Undefigned Settlements,18.0,0.0,0.0,0.0
+141,United Kingdom,Dorset and Somerset,Undefigned Settlements,52.0,4.0,0.07692307692307693,0.00025198437696862794
+142,United Kingdom,East Anglia,Undefigned Settlements,193.0,112.0,0.5803108808290155,0.007055562555121583
+143,United Kingdom,Eastern Scotland,Undefigned Settlements,260.0,43.0,0.16538461538461538,0.0027088320524127503
+144,United Kingdom,Essex,Undefigned Settlements,61.0,23.0,0.3770491803278688,0.0014489101675696106
+145,United Kingdom,"Gloucestershire, Wiltshire and Bristol/Bath area",Undefigned Settlements,45.0,10.0,0.2222222222222222,0.0006299609424215699
+146,United Kingdom,Hampshire and Isle of Wight,Undefigned Settlements,1.0,0.0,0.0,0.0
+147,United Kingdom,"Herefordshire, Worcestershire and Warwickshire",Undefigned Settlements,11.0,2.0,0.18181818181818182,0.00012599218848431397
+148,United Kingdom,Highlands and Islands,Undefigned Settlements,95.0,6.0,0.06315789473684211,0.00037797656545294193
+149,United Kingdom,Kent,Undefigned Settlements,36.0,16.0,0.4444444444444444,0.0010079375078745117
+150,United Kingdom,Lancashire,Undefigned Settlements,65.0,19.0,0.2923076923076923,0.0011969257906009828
+151,United Kingdom,"Leicestershire, Rutland and Northamptonshire",Undefigned Settlements,69.0,36.0,0.5217391304347826,0.0022678593927176515
+152,United Kingdom,Lincolnshire,Undefigned Settlements,7.0,4.0,0.5714285714285714,0.00025198437696862794
+153,United Kingdom,London,Undefigned Settlements,5.0,1.0,0.2,6.299609424215698e-05
+154,United Kingdom,North Eastern Scotland,Undefigned Settlements,29.0,2.0,0.06896551724137931,0.00012599218848431397
+155,United Kingdom,North Yorkshire,Undefigned Settlements,77.0,2.0,0.025974025974025976,0.00012599218848431397
+156,United Kingdom,Northern Ireland,Undefigned Settlements,9.0,0.0,0.0,0.0
+157,United Kingdom,Northumberland and Tyne and Wear,Undefigned Settlements,86.0,16.0,0.18604651162790697,0.0010079375078745117
+158,United Kingdom,Outer London — West and North West,Undefigned Settlements,84.0,14.0,0.16666666666666666,0.0008819453193901979
+159,United Kingdom,Shropshire and Staffordshire,Undefigned Settlements,5.0,1.0,0.2,6.299609424215698e-05
+160,United Kingdom,Southern Scotland,Undefigned Settlements,126.0,18.0,0.14285714285714285,0.0011339296963588257
+161,United Kingdom,"Surrey, East and West Sussex",Undefigned Settlements,10.0,0.0,0.0,0.0
+162,United Kingdom,Tees Valley and Durham,Undefigned Settlements,10.0,2.0,0.2,0.00012599218848431397
+163,United Kingdom,West Central Scotland,Undefigned Settlements,29.0,3.0,0.10344827586206896,0.00018898828272647097
+165,Austria,Undefined Regions,Undefigned Settlements,4.0,0.0,0.0,0.0
+166,Denmark,Undefined Regions,Undefigned Settlements,6.0,0.0,0.0,0.0
+167,France,Undefined Regions,Undefigned Settlements,494.0,450.0,0.9109311740890689,0.028348242408970645
+168,Germany,Undefined Regions,Undefigned Settlements,942.0,335.0,0.35562632696390656,0.02110369157112259
+169,Italy,Undefined Regions,Undefigned Settlements,1.0,0.0,0.0,0.0
+170,Luxembourg,Undefined Regions,Undefigned Settlements,3.0,0.0,0.0,0.0
+171,Netherlands,Undefined Regions,Undefigned Settlements,4.0,1.0,0.25,6.299609424215698e-05
+172,Switzerland,Undefined Regions,Undefigned Settlements,108.0,106.0,0.9814814814814815,0.00667758598966864
+173,United Kingdom,Undefined Regions,Undefigned Settlements,369.0,4.0,0.01084010840108401,0.00025198437696862794

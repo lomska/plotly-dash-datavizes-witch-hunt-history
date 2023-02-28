@@ -1,0 +1,63 @@
+body{
+    background-color: #B2B297;
+}
+
+.border-secondary: {
+  border-color: #e4e3bf !important;
+}
+
+.btn {
+  color: #B2B297;
+  font-family: "Palatino";
+}
+
+.accordion-body {
+  background-color: #1e201e;
+  border: none; !important;
+  box-shadow: none !important;
+  color: #e4e3bf;
+  font-family: "Palatino";
+  font-size: 20px;
+}
+
+.accordion-button {
+  background-color: #040609;
+  font-family: "Palatino";
+  font-size: 20px;
+  color: #e4e3bf;
+  border: none; !important;
+  box-shadow: none !important;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #1e201e;
+  color: #040609;
+  font-family: "Palatino";
+  font-size: 20px;
+  color: #e4e3bf;
+  border: none; !important;
+  box-shadow: none !important;
+}
+
+.accordion-button:focus {
+  background-color: #1e201e;
+  color: #e4e3bf;  
+  box-shadow: none;
+  border: none; !important;
+  box-shadow: none !important;
+}
+
+.accordion-button:link, .accordion-button:visited, .accordion-button:hover, .accordion-button:active  {
+  background-color: #1e201e !important;
+  color: #e4e3bf !important;
+  text-decoration: none !important;
+  border: none; !important;
+  box-shadow: none !important;
+
+  }
+
+.accordion-button:after {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23e4e3bf'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !important;
+  box-shadow: none !important;
+  border: none; !important;
+}

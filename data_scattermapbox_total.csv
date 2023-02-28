@@ -1,0 +1,571 @@
+place,lat,lon,min_decade,max_decade,tried,executed,mortality,country,event,decade,battle,size
+Aachen,50.7753455,6.0838868,,,,,,Germany,battle,1580.0,"Aachen, 1581 | Eighty Years' War<br>Aachen, 1614 | Eighty Years' War",
+Aachen,50.7753455,6.0838868,,,,,,Germany,battle,1610.0,"Aachen, 1581 | Eighty Years' War<br>Aachen, 1614 | Eighty Years' War",
+Aalst,50.9378101,4.0409517,,,,,,Belgium,battle,1570.0,"Aalst, 1576 | Eighty Years' War",
+Aargau,47.4112,8.1543,1470.0,1680.0,144.0,107.0,0.7430555555555556,Switzerland,trial,,,6.770275002573076
+Aberdeen,57.149717,-2.094278,,,,,,United Kingdom,battle,1640.0,"Dee, 1639 | British Wars of Religion<br>Aberdeen, 1644 | British Wars of Religion",
+Aberdeen,57.149717,-2.094278,,,,,,United Kingdom,battle,1630.0,"Dee, 1639 | British Wars of Religion<br>Aberdeen, 1644 | British Wars of Religion",
+Adwalton,53.7513517,-1.6545698,,,,,,United Kingdom,battle,1640.0,"Adwalton Moor, 1643 | British Wars of Religion",
+Aldbourne,51.479233,-1.62053,,,,,,United Kingdom,battle,1640.0,"Aldbourne Chase, 1643 | British Wars of Religion",
+Alford,53.263271,0.183359,,,,,,United Kingdom,battle,1640.0,"Alford, 1645 | British Wars of Religion",
+Alkmaar,52.6323813,4.7533754,,,,,,Netherlands,battle,1570.0,"Alkmaar, 1573 | Eighty Years' War",
+Alsace,48.3183,7.4515,1350.0,1690.0,106.0,75.0,0.7075471698113207,France,trial,,,5.808687281605183
+Alte Veste,49.454322,10.972363,,,,,,Germany,battle,1630.0,"Alte Veste, 1632 | Thirty Years' War",
+Alton,51.150719,-0.973177,,,,,,United Kingdom,battle,1640.0,"Alton, 1643 | British Wars of Religion",
+Alyth,56.62578,-3.226867,,,,,,United Kingdom,battle,1650.0,"Alyth, 1651 | British Wars of Religion",
+Amiens,49.894067,2.295753,,,,,,France,battle,1590.0,"Amiens, 1597 | French Wars of Religion",
+Angus,56.7969965,-2.9206818,,,,,,United Kingdom,battle,1640.0,"Careston, 1645 | British Wars of Religion",
+Annan,54.990246,-3.259773,,,,,,United Kingdom,battle,1640.0,"Annan Moor, 1645 | British Wars of Religion",
+Antwerp,51.2194475,4.4024643,,,,,,Belgium,battle,1570.0,"Oosterweel, 1567 | Eighty Years' War<br>Antwerp, 1576 | Eighty Years' War<br>Antwerp, 1584 | Eighty Years' War<br>Kallo, 1638 | Thirty Years' War",
+Antwerp,51.2194475,4.4024643,,,,,,Belgium,battle,1560.0,"Oosterweel, 1567 | Eighty Years' War<br>Antwerp, 1576 | Eighty Years' War<br>Antwerp, 1584 | Eighty Years' War<br>Kallo, 1638 | Thirty Years' War",
+Antwerp,51.2194475,4.4024643,,,,,,Belgium,battle,1630.0,"Oosterweel, 1567 | Eighty Years' War<br>Antwerp, 1576 | Eighty Years' War<br>Antwerp, 1584 | Eighty Years' War<br>Kallo, 1638 | Thirty Years' War",
+Antwerp,51.2194475,4.4024643,,,,,,Belgium,battle,1580.0,"Oosterweel, 1567 | Eighty Years' War<br>Antwerp, 1576 | Eighty Years' War<br>Antwerp, 1584 | Eighty Years' War<br>Kallo, 1638 | Thirty Years' War",
+Appenzell Ausserrhoden,47.3855,9.4368,1550.0,1690.0,30.0,30.0,1.0,Switzerland,trial,,,3.0901936161855166
+Appenzell Innerrhoden,47.3177,9.401,1590.0,1690.0,61.0,35.0,0.5737704918032787,Switzerland,trial,,,4.406461512053774
+Aquitaine,44.3694,-0.2186,1320.0,1710.0,34.0,14.0,0.4117647058823529,France,trial,,,3.2897623212397704
+Armagh,54.3502798,-6.652792,,,,,,United Kingdom,battle,1650.0,"Charlemont, 1650 | British Wars of Religion",
+Arnay-le-Duc,47.130623,4.485898,,,,,,France,battle,1570.0,"Arnay-le-Duc, 1570 | French Wars of Religion",
+Arnhem,51.174422,4.8279351,,,,,,Belgium,battle,1580.0,"Arnhem, 1585 | Eighty Years' War",
+Arnsberg,51.3119,7.9928,1460.0,1730.0,1109.0,881.0,0.7944093778178539,Germany,trial,,,18.78844495368959
+Arques-la-Bataille,49.880241,1.125068,,,,,,France,battle,1580.0,"Arques, 1589 | French Wars of Religion",
+Arundel,50.855171,-0.555119,,,,,,United Kingdom,battle,1640.0,"Arundel, 1643 | British Wars of Religion",
+Augsburg,48.3705449,10.89779,,,,,,Germany,battle,1630.0,"Augsburg, 1632 | Thirty Years' War",
+Auldearn,57.576161,-3.801675,,,,,,United Kingdom,battle,1640.0,"Auldearn, 1645 | British Wars of Religion",
+Aumale,49.76861,1.752119,,,,,,France,battle,1590.0,"Aumale, 1592 | French Wars of Religion",
+Auneau,48.4622839,1.773238,,,,,,France,battle,1580.0,"Auneau, 1587 | French Wars of Religion",
+Auvergne,45.6611,3.1584,1390.0,1590.0,3.0,2.0,0.6666666666666666,France,trial,,,0.9772050238058398
+Avigliana,45.076291,7.4016896,,,,,,Italy,battle,1630.0,"Avigliana, 1630 | Thirty Years' War",
+Axel,51.2668789,3.9094234,,,,,,Netherlands,battle,1580.0,"Axel, 1585 | Eighty Years' War",
+Bad Frankenhausen,51.3561014,11.1016361,,,,,,Germany,battle,1520.0,"Frankenhausen, 1525 | German Peasants' War",
+Bad Konigshofen,50.3013477,10.4662774,,,,,,Germany,battle,1520.0,"Konigshofen, 1525 | German Peasants' War",
+Bad Wurzach,47.9081917,9.8938287,,,,,,Germany,battle,1520.0,"Wurzach, 1525 | German Peasants' War",
+Bamberg,49.8988135,10.9027636,,,,,,Germany,battle,1630.0,"Bamberg, 1632 | Thirty Years' War",
+Banbury,52.0629009,-1.339775,,,,,,United Kingdom,battle,1640.0,"Cropredy Bridge, 1644 | British Wars of Religion",
+Banchory,57.053856,-2.49096,,,,,,United Kingdom,battle,1560.0,"Corrichie, 1562 | Marian Civil War",
+Bandon,51.746124,-8.7318174,,,,,,Ireland,battle,1640.0,"Bandon, 1642 | British Wars of Religion",
+Barcelona,41.38506,2.173404,,,,,,Spain,battle,1640.0,"Montjuic, 1641 | Thirty Years' War<br>Barcelona, 1642 | Thirty Years' War",
+Basel-Landschaft,47.4581,7.7339,1480.0,1690.0,76.0,56.0,0.7368421052631579,Switzerland,trial,,,4.918490759365935
+Basel-Stadt,47.5612,7.5933,1390.0,1690.0,43.0,11.0,0.2558139534883721,Switzerland,trial,,,3.6996385101659595
+Basingstoke,51.26654,-1.0923964,,,,,,United Kingdom,battle,1640.0,"Basing House, 1643 | British Wars of Religion",
+Bassac,45.663292,-0.104503,,,,,,France,battle,1560.0,"Jarnac, 1569 | French Wars of Religion",
+Basse-Normandie,48.9092,-0.4742,1560.0,1650.0,189.0,46.0,0.24338624338624337,France,trial,,,7.756324418739616
+Bautzen,51.182293,14.4237749,,,,,,Germany,battle,1620.0,"Bautzen, 1620 | Thirty Years' War",
+Bedfordshire and Hertfordshire,51.9386,-0.3242,1330.0,1710.0,23.0,9.0,0.391304347826087,United Kingdom,trial,,,2.7057581899030048
+Benburb,54.41178,-6.74394,,,,,,United Kingdom,battle,1640.0,"Benburb, 1646 | British Wars of Religion",
+Bergen op Zoom,51.4945758,4.2871622,,,,,,Netherlands,battle,1620.0,"Bergen-op-Zoom, 1588 | Eighty Years' War<br>Bergen-op-Zoom, 1622 | Eighty Years' War",
+Bergen op Zoom,51.4945758,4.2871622,,,,,,Netherlands,battle,1580.0,"Bergen-op-Zoom, 1588 | Eighty Years' War<br>Bergen-op-Zoom, 1622 | Eighty Years' War",
+"Berkshire, Buckinghamshire and Oxfordshire",51.7136,-1.0968,1570.0,1670.0,11.0,6.0,0.5454545454545454,United Kingdom,trial,,,1.8712051592547776
+Berlin,52.5005,13.4022,1390.0,1440.0,5.0,5.0,1.0,Germany,trial,,,1.2615662610100802
+Bern,46.8218,7.6225,1390.0,1650.0,90.0,19.0,0.2111111111111111,Switzerland,trial,,,5.352372348458314
+Blekinge län,56.2897,15.2131,1660.0,1750.0,15.0,0.0,0.0,Sweden,trial,,,2.1850968611841584
+Boblingen,48.6813312,9.0088299,,,,,,Germany,battle,1520.0,"Boblingen, 1525 | German Peasants' War",
+Bolton,53.5768647,-2.4282192,,,,,,United Kingdom,battle,1640.0,"Bolton, 1644 | British Wars of Religion",
+Bonn,50.73743,7.0982068,,,,,,Germany,battle,1580.0,"Bonn, 1584 | Eighty Years' War",
+Boulay-Moselle,49.184543,6.4981099,,,,,,France,battle,1630.0,"Boulay, 1635 | Thirty Years' War",
+Bourgogne,47.2537,4.1531,1430.0,1740.0,11.0,9.0,0.8181818181818182,France,trial,,,1.8712051592547776
+Brandenburg,53.0836,12.1381,1330.0,1380.0,19.0,14.0,0.7368421052631579,Germany,trial,,,2.4592453796829674
+Brandys nad Labem-Stara Boleslav,50.1863259,14.6592444,,,,,,Czech Republic,battle,1630.0,"Brandeis, 1639 | Thirty Years' War",
+Braunschweig,52.0498,10.3557,1470.0,1470.0,1.0,0.0,0.0,Germany,trial,,,0.5641895835477563
+Breda,51.58307,4.7769505,,,,,,Netherlands,battle,1590.0,"Breda, 1590 | Eighty Years' War<br>Breda, 1624 | Eighty Years' War<br>Breda, 1636 | Eighty Years' War",
+Breda,51.58307,4.7769505,,,,,,Netherlands,battle,1620.0,"Breda, 1590 | Eighty Years' War<br>Breda, 1624 | Eighty Years' War<br>Breda, 1636 | Eighty Years' War",
+Breda,51.58307,4.7769505,,,,,,Netherlands,battle,1630.0,"Breda, 1590 | Eighty Years' War<br>Breda, 1624 | Eighty Years' War<br>Breda, 1636 | Eighty Years' War",
+Bredevoort,51.9421422,6.6184985,,,,,,Netherlands,battle,1590.0,"Bredevoort, 1597 | Eighty Years' War<br>Bredevoort, 1606 | Eighty Years' War",
+Bredevoort,51.9421422,6.6184985,,,,,,Netherlands,battle,1600.0,"Bredevoort, 1597 | Eighty Years' War<br>Bredevoort, 1606 | Eighty Years' War",
+Brema,45.1330057,8.6304529,,,,,,Italy,battle,1630.0,"Brema, 1635 | Thirty Years' War",
+Brentford,51.486073,-0.3101169,,,,,,United Kingdom,battle,1640.0,"Brentford, 1642 | British Wars of Religion",
+Bretagne,48.1657,-2.7883,1720.0,1720.0,3.0,0.0,0.0,France,trial,,,0.9772050238058398
+Bridgwater,51.127889,-3.003632,,,,,,United Kingdom,battle,1640.0,"Bridgwater, 1645 | British Wars of Religion",
+Brieisach,48.0348382,7.5836067,,,,,,Germany,battle,1630.0,"Breisach, 1638 | Thirty Years' War",
+Brielle,51.902582,4.1636846,,,,,,Netherlands,battle,1570.0,"Brielle, 1572 | Eighty Years' War",
+Bristol,51.454513,-2.58791,,,,,,United Kingdom,battle,1640.0,"Bristol, 1643 | British Wars of Religion<br>Bristol, 1645 | British Wars of Religion",
+Bruck an der Leitha,48.02375,16.77534,,,,,,Austria,battle,1610.0,"Bruck an der Leitha, 1619 | Thirty Years' War",
+Brussels,50.8503396,4.3517103,,,,,,Belgium,battle,1580.0,"Brussels, 1585 | Eighty Years' War",
+Budejovice,48.975658,14.480255,,,,,,Czech Republic,battle,1610.0,"Sablat (Zablati), 1619 | Thirty Years' War",
+Bunratty,52.698874,-8.8111283,,,,,,Ireland,battle,1640.0,"Bunratty, 1646 | British Wars of Religion",
+Buren,51.9103889,5.3340584,,,,,,Netherlands,battle,1570.0,"Buren, 1575 | Eighty Years' War",
+Cabo de Gata,36.7817465,-2.2422484,,,,,,Spain,battle,1640.0,"Cabo de Gata, 1643 | Thirty Years' War",
+Cahors,44.4475229,1.441989,,,,,,France,battle,1580.0,"Cahors, 1580 | French Wars of Religion",
+Calais,50.95129,1.858686,,,,,,France,battle,1590.0,"Calais, 1596 | French Wars of Religion",
+Canaston Bridge,51.801575,-4.8042999,,,,,,United Kingdom,battle,1640.0,"Colby Moor, 1645 | British Wars of Religion",
+Cape St. Vincent,37.0230468,-8.9964565,,,,,,Portugal,battle,1600.0,"Cape St. Vincent, 1606 | Eighty Years' War",
+Cardiff,51.481581,-3.17909,,,,,,United Kingdom,battle,1640.0,"St. Fagan's, 1648 | British Wars of Religion",
+Casale Monferrato,45.1316088,8.450503,,,,,,Italy,battle,1620.0,"Casale, 1628 | Thirty Years' War<br>Casale, 1640 | Thirty Years' War",
+Casale Monferrato,45.1316088,8.450503,,,,,,Italy,battle,1640.0,"Casale, 1628 | Thirty Years' War<br>Casale, 1640 | Thirty Years' War",
+Castilla y León,41.7447,-4.8172,1610.0,1610.0,4.0,0.0,0.0,Spain,trial,,,1.1283791670955126
+Cataluña,41.8005,1.5078,1430.0,1450.0,3.0,1.0,0.3333333333333333,Spain,trial,,,0.9772050238058398
+Caudebec-en-Caux,49.525303,0.723336,,,,,,France,battle,1590.0,"Caudebec, 1592 | French Wars of Religion",
+Centre — Val de Loire,47.4811,1.6776,1580.0,1610.0,32.0,18.0,0.5625,France,trial,,,3.1915382432114616
+Cernay,47.807124,7.176532,,,,,,France,battle,1630.0,"Sennheim, 1638 | Thirty Years' War",
+Chalgrove,51.666818,-1.078599,,,,,,United Kingdom,battle,1640.0,"Chalgrove Field, 1643 | British Wars of Religion",
+Champagne-Ardenne,48.7435,4.5387,1300.0,1550.0,9.0,1.0,0.1111111111111111,France,trial,,,1.692568750643269
+Chartres,48.443854,1.489012,,,,,,France,battle,1560.0,"Chartres, 1568 | French Wars of Religion<br>Chartres, 1591 | French Wars of Religion",
+Chartres,48.443854,1.489012,,,,,,France,battle,1590.0,"Chartres, 1568 | French Wars of Religion<br>Chartres, 1591 | French Wars of Religion",
+Chemnitz,50.827845,12.9213697,,,,,,Germany,battle,1630.0,"Chemnitz, 1639 | Thirty Years' War",
+Chemnitz,50.7323,12.8143,1420.0,1420.0,1.0,0.0,0.0,Germany,trial,,,0.5641895835477563
+Cheriton,51.0539153,-1.1708223,,,,,,United Kingdom,battle,1640.0,"Alresford (Cheriton), 1644 | British Wars of Religion",
+Chieri,45.008885,7.8275551,,,,,,Italy,battle,1630.0,"Chieri, 1639 | Thirty Years' War",
+Chiswick,51.4876272,-0.2671732,,,,,,United Kingdom,battle,1640.0,"Turnham Green, 1642 | British Wars of Religion",
+Clonmel,52.3558172,-7.6902551,,,,,,Ireland,battle,1650.0,"Clonmel, 1650 | British Wars of Religion",
+Colchester,51.895927,0.891874,,,,,,United Kingdom,battle,1640.0,"Colchester, 1648 | British Wars of Religion",
+Comunidad Foral de Navarra,42.7117,-1.6508,1610.0,1610.0,1577.0,0.0,0.0,Spain,trial,,,22.404791686419177
+Corbie,49.907676,2.511947,,,,,,France,battle,1630.0,"Corbie, 1635 | Thirty Years' War",
+Cork,51.8968917,-8.4863157,,,,,,Ireland,battle,1640.0,"Cork, 1642 | British Wars of Religion",
+Cornwall,50.5036299,-4.6524982,,,,,,United Kingdom,battle,1640.0,"Braddock Down, 1643 | British Wars of Religion",
+Cornwall and Isles of Scilly,50.4401,-4.7762,1580.0,1690.0,18.0,2.0,0.1111111111111111,United Kingdom,trial,,,2.393653682408596
+Cottingham,53.782081,-0.413978,,,,,,United Kingdom,battle,1640.0,"Hull, 1643 | British Wars of Religion",
+Coutras,45.04067,-0.129361,,,,,,France,battle,1580.0,"Coutras, 1587 | French Wars of Religion",
+Cremona,45.133249,10.0226511,,,,,,Italy,battle,1640.0,"Trancheron, 1648 | Thirty Years' War",
+Culrain,57.918107,-4.410573,,,,,,United Kingdom,battle,1650.0,"Carbisdale, 1650 | British Wars of Religion",
+Cumbria,54.5973,-2.8724,1650.0,1650.0,1.0,0.0,0.0,United Kingdom,trial,,,0.5641895835477563
+Dachau,48.2629984,11.4339022,,,,,,Germany,battle,1640.0,"Dachau, 1648 | Thirty Years' War",
+Darmstadt,50.0613,8.7603,1400.0,1690.0,172.0,1.0,0.005813953488372093,Germany,trial,,,7.399277020331919
+Derbyshire and Nottinghamshire,53.0705,-1.4046,1580.0,1680.0,22.0,3.0,0.13636363636363635,United Kingdom,trial,,,2.6462837142006137
+Dessau-Rosslau,51.82224,12.24245,,,,,,Germany,battle,1620.0,"Dessau, 1626 | Thirty Years' War",
+Detmold,51.9362,8.7809,1400.0,1630.0,15.0,13.0,0.8666666666666667,Germany,trial,,,2.1850968611841584
+Deventer,52.2660751,6.1552165,,,,,,Netherlands,battle,1590.0,"Deventer, 1587 | Eighty Years' War<br>Deventer, 1591 | Eighty Years' War",
+Deventer,52.2660751,6.1552165,,,,,,Netherlands,battle,1580.0,"Deventer, 1587 | Eighty Years' War<br>Deventer, 1591 | Eighty Years' War",
+Devizes,51.3489069,-1.994828,,,,,,United Kingdom,battle,1640.0,"Roundway Down, 1643 | British Wars of Religion",
+Devon,50.7449,-3.8006,1300.0,1700.0,19.0,0.0,0.0,United Kingdom,trial,,,2.4592453796829674
+Dolnośląskie,51.0982,16.4117,1450.0,1490.0,10.0,3.0,0.3,Poland,trial,,,1.7841241161527712
+Domitz,53.1358097,11.2699357,,,,,,Germany,battle,1630.0,"Domitz, 1635 | Thirty Years' War",
+Donaueschingen,47.9521523,8.4979461,,,,,,Germany,battle,1520.0,"Donaueschingen, 1524 | German Peasants' War",
+Donegal,54.6541972,-8.110546,,,,,,Ireland,battle,1650.0,"Scarrifholis, 1650 | British Wars of Religion",
+Dormans,49.07464,3.638479,,,,,,France,battle,1570.0,"Dormans, 1575 | French Wars of Religion",
+Dorset and Somerset,50.9956,-2.6741,1560.0,1700.0,52.0,4.0,0.07692307692307693,United Kingdom,trial,,,4.068428945128219
+Dreux,48.736134,1.370889,,,,,,France,battle,1560.0,"Dreux, 1562 | French Wars of Religion",
+Drogheda,53.717856,-6.3560985,,,,,,Ireland,battle,1640.0,"Drogheda, 1641 | British Wars of Religion<br>Drogheda, 1649 | British Wars of Religion",
+Dublin,53.3498053,-6.2603097,,,,,,Ireland,battle,1640.0,"Rathmines, 1649 | British Wars of Religion",
+Dufftown,57.443623,-3.12838,,,,,,United Kingdom,battle,1640.0,"Balvenie, 1649 | British Wars of Religion",
+Dunbar,56.002087,-2.516737,,,,,,United Kingdom,battle,1650.0,"Dunbar, 1650 | British Wars of Religion",
+Duncannon,52.2255552,-6.9316371,,,,,,Ireland,battle,1640.0,"Duncannon, 1645 | British Wars of Religion",
+Dundee,56.462018,-2.970721,,,,,,United Kingdom,battle,1650.0,"Dundee, 1651 | British Wars of Religion",
+Dunkirk,51.0343684,2.3767763,,,,,,France,battle,1600.0,"Dunkirk, 1583 | Eighty Years' War<br>Narrow Seas, 1602 | Eighty Years' War<br>Dunkirk, 1646 | Thirty Years' War",
+Dunkirk,51.0343684,2.3767763,,,,,,France,battle,1580.0,"Dunkirk, 1583 | Eighty Years' War<br>Narrow Seas, 1602 | Eighty Years' War<br>Dunkirk, 1646 | Thirty Years' War",
+Dunkirk,51.0343684,2.3767763,,,,,,France,battle,1640.0,"Dunkirk, 1583 | Eighty Years' War<br>Narrow Seas, 1602 | Eighty Years' War<br>Dunkirk, 1646 | Thirty Years' War",
+Düsseldorf,51.4326,6.5988,1490.0,1490.0,4.0,1.0,0.25,Germany,trial,,,1.1283791670955126
+East Anglia,52.4502,0.7184,1460.0,1740.0,195.0,112.0,0.5743589743589743,United Kingdom,trial,,,7.878478774854901
+Eastern Scotland,56.4433,-4.181,1560.0,1710.0,260.0,43.0,0.16538461538461538,United Kingdom,trial,,,9.09728368293446
+Ebersberg,48.0780006,11.9669667,,,,,,Germany,battle,1630.0,"Ebersberg, 1634 | Thirty Years' War",
+Edgehill,52.113518,-1.453197,,,,,,United Kingdom,battle,1640.0,"Edgehill, 1642 | British Wars of Religion",
+Edinburgh,55.953252,-3.188267,,,,,,United Kingdom,battle,1570.0,"Edinburgh, 1573 | Marian Civil War",
+Eesti,58.6709,25.8548,1520.0,1720.0,205.0,65.0,0.3170731707317073,Estonia,trial,,,8.07796550300118
+Eindhoven,51.441642,5.4697225,,,,,,Netherlands,battle,1580.0,"Eindhoven, 1583 | Eighty Years' War",
+Emilia-Romagna,44.5224,11.0296,1450.0,1490.0,3.0,1.0,0.3333333333333333,Italy,trial,,,0.9772050238058398
+Enschede,52.2215372,6.8936619,,,,,,Netherlands,battle,1590.0,"Enschede, 1597 | Eighty Years' War",
+Essex,51.799,0.4809,1560.0,1690.0,61.0,23.0,0.3770491803278688,United Kingdom,trial,,,4.406461512053774
+Fehmarn,54.4600619,11.1337406,,,,,,Germany,battle,1640.0,"Kolberg Heath (Kolberger Heide), 1644 | Thirty Years' War",
+Fermoy,52.1393605,-8.2755611,,,,,,Ireland,battle,1640.0,"Fermoy, 1643 | British Wars of Religion",
+Fleurus,50.4822605,4.5511869,,,,,,Belgium,battle,1620.0,"Fleurus, 1622 | Thirty Years' War",
+Flevoland,52.5438,5.4817,1600.0,1600.0,2.0,0.0,0.0,Netherlands,trial,,,0.7978845608028654
+Fontaine-Francaise,47.526469,5.370847,,,,,,France,battle,1590.0,"Fontaine-Francaise, 1595 | French Wars of Religion",
+Franche-Comté,47.1972,6.0795,1520.0,1660.0,130.0,55.0,0.4230769230769231,France,trial,,,6.432750982580687
+Frankenberg,50.9090361,13.0404029,,,,,,Germany,battle,1640.0,"Frankenberg, 1646 | Thirty Years' War",
+Frankenthal,49.533333,8.35,,,,,,Germany,battle,1620.0,"Frankenthal, 1621 | Thirty Years' War",
+Frankfurt an der Oder,52.3472237,14.5505673,,,,,,Germany,battle,1630.0,"Frankfurt an der Oder, 1631 | Thirty Years' War",
+Freiburg,47.9990077,7.8421043,,,,,,Germany,battle,1640.0,"Freiburg, 1525 | German Peasants' War<br>Freiburg, 1644 | Thirty Years' War",
+Freiburg,47.9990077,7.8421043,,,,,,Germany,battle,1520.0,"Freiburg, 1525 | German Peasants' War<br>Freiburg, 1644 | Thirty Years' War",
+Freiburg,48.0237,8.2189,1300.0,1690.0,2545.0,1312.0,0.5155206286836935,Germany,trial,,,28.46223217419441
+Friesland (NL),53.0649,5.8002,1590.0,1700.0,4.0,0.0,0.0,Netherlands,trial,,,1.1283791670955126
+Fuenterrabia,43.3708434,-1.8001488,,,,,,Spain,battle,1630.0,"Fuenterrabia, 1638 | Thirty Years' War",
+Fyvie,57.429806,-2.3889999,,,,,,United Kingdom,battle,1640.0,"Fyvie, 1644 | British Wars of Religion",
+Gainsborough,53.400575,-0.774465,,,,,,United Kingdom,battle,1640.0,"Gainsborough, 1643 | British Wars of Religion",
+Galway,53.270668,-9.0567905,,,,,,Ireland,battle,1650.0,"Galway, 1652 | British Wars of Religion",
+Geertruidenberg,51.7023659,4.8499781,,,,,,Netherlands,battle,1590.0,"Geertruidenberg, 1573 | Eighty Years' War<br>Gertruydenberg (Geertruidenberg), 1588 | Eighty Years' War<br>Gertruydenberg (Geertruidenberg), 1593 | Eighty Years' War",
+Geertruidenberg,51.7023659,4.8499781,,,,,,Netherlands,battle,1580.0,"Geertruidenberg, 1573 | Eighty Years' War<br>Gertruydenberg (Geertruidenberg), 1588 | Eighty Years' War<br>Gertruydenberg (Geertruidenberg), 1593 | Eighty Years' War",
+Geertruidenberg,51.7023659,4.8499781,,,,,,Netherlands,battle,1570.0,"Geertruidenberg, 1573 | Eighty Years' War<br>Gertruydenberg (Geertruidenberg), 1588 | Eighty Years' War<br>Gertruydenberg (Geertruidenberg), 1593 | Eighty Years' War",
+Gelderland,52.0672,5.9378,1400.0,1490.0,9.0,1.0,0.1111111111111111,Netherlands,trial,,,1.692568750643269
+Gembloux,50.56515,4.68843,,,,,,Belgium,battle,1570.0,"Gembloux, 1578 | Eighty Years' War",
+Geneva,46.1983922,6.1422961,,,,,,Switzerland,battle,1600.0,"Geneva, 1602 | Swiss Religious Wars",
+Genève,46.2037,6.0889,1400.0,1680.0,297.0,106.0,0.3569023569023569,Switzerland,trial,,,9.72306722164286
+Ghent,51.0543422,3.7174243,,,,,,Belgium,battle,1580.0,"Ghent, 1584 | Eighty Years' War",
+Gibraltar,36.140751,-5.353585,,,,,,Spain,battle,1600.0,"Gibraltar, 1607 | Eighty Years' War",
+Gießen,50.7134,8.7915,1450.0,1680.0,10.0,2.0,0.2,Germany,trial,,,1.7841241161527712
+Glarus,46.9722,9.057,1780.0,1780.0,1.0,1.0,1.0,Switzerland,trial,,,0.5641895835477563
+Gloucester,51.8642449,-2.238156,,,,,,United Kingdom,battle,1640.0,"Gloucester, 1643 | British Wars of Religion",
+"Gloucestershire, Wiltshire and Bristol/Bath area",51.5451,-2.1142,1610.0,1700.0,45.0,10.0,0.2222222222222222,United Kingdom,trial,,,3.7846987830302403
+Gluckstadt,53.7911914,9.4260898,,,,,,Germany,battle,1620.0,"Gluckstadt, 1627 | Thirty Years' War",
+Goch,51.679984,6.1565522,,,,,,Germany,battle,1620.0,"Goch, 1622 | Eighty Years' War",
+Goldberg,53.5900958,12.0857297,,,,,,Germany,battle,1630.0,"Goldberg, 1635 | Thirty Years' War",
+Grantham,52.912524,-0.643582,,,,,,United Kingdom,battle,1640.0,"Grantham, 1643 | British Wars of Religion",
+Graubünden,46.671,9.6033,1600.0,1700.0,543.0,249.0,0.4585635359116022,Switzerland,trial,,,13.146949007195484
+Grave,51.7589248,5.7383579,,,,,,Netherlands,battle,1580.0,"Grave, 1586 | Eighty Years' War",
+Gravelines,50.98707,2.125537,,,,,,France,battle,1640.0,"Gravelines, 1644 | Thirty Years' War",
+Great Torrington,50.9546459,-4.135998,,,,,,United Kingdom,battle,1640.0,"Torrington, 1646 | British Wars of Religion",
+Groenlo,52.0419627,6.6113711,,,,,,Netherlands,battle,1600.0,"Grol (Groenlo), 1597 | Eighty Years' War<br>Grol (Groenlo), 1606 | Eighty Years' War<br>Grol (Groenlo), 1627 | Eighty Years' War",
+Groenlo,52.0419627,6.6113711,,,,,,Netherlands,battle,1620.0,"Grol (Groenlo), 1597 | Eighty Years' War<br>Grol (Groenlo), 1606 | Eighty Years' War<br>Grol (Groenlo), 1627 | Eighty Years' War",
+Groenlo,52.0419627,6.6113711,,,,,,Netherlands,battle,1590.0,"Grol (Groenlo), 1597 | Eighty Years' War<br>Grol (Groenlo), 1606 | Eighty Years' War<br>Grol (Groenlo), 1627 | Eighty Years' War",
+Groningen,53.2193835,6.5665018,,,,,,Netherlands,battle,1590.0,"Noordhorn, 1581 | Eighty Years' War<br>Groningen, 1594 | Eighty Years' War",
+Groningen,53.2193835,6.5665018,,,,,,Netherlands,battle,1580.0,"Noordhorn, 1581 | Eighty Years' War<br>Groningen, 1594 | Eighty Years' War",
+Haarlem,52.3873878,4.6462194,,,,,,Netherlands,battle,1570.0,"Haarlem, 1572 | Eighty Years' War",
+Hallands län,56.9396,12.8733,1660.0,1740.0,7.0,0.0,0.0,Sweden,trial,,,1.4927053303604616
+Hamburg,53.5392,10.01,1440.0,1480.0,4.0,4.0,1.0,Germany,trial,,,1.1283791670955126
+Hamilton,55.777633,-4.053679,,,,,,United Kingdom,battle,1650.0,"Hamilton, 1650 | British Wars of Religion",
+Hampshire and Isle of Wight,51.0785,-1.2729,1440.0,1570.0,4.0,0.0,0.0,United Kingdom,trial,,,1.1283791670955126
+Hanau,50.1264123,8.9283105,,,,,,Germany,battle,1630.0,"Hanau, 1635 | Thirty Years' War",
+Hannover,52.3963,9.3691,1470.0,1490.0,4.0,4.0,1.0,Germany,trial,,,1.1283791670955126
+Hardenberg,52.5754084,6.6166947,,,,,,Netherlands,battle,1580.0,"Hardenberg Heath, 1580 | Eighty Years' War",
+Haute-Normandie,49.3909,1.0286,1430.0,1680.0,205.0,59.0,0.28780487804878047,France,trial,,,8.07796550300118
+Heidelberg,49.3987524,8.6724335,,,,,,Germany,battle,1620.0,"Heidelberg, 1622 | Thirty Years' War",
+Heilbronn,49.1426929,9.210879,,,,,,Germany,battle,1640.0,"Heilbronn, 1645 | Thirty Years' War",
+Heiligenhafen,54.3696799,10.97561,,,,,,Germany,battle,1620.0,"Heiligenhafen, 1627 | Thirty Years' War",
+Heiligerlee,53.1549624,7.0118901,,,,,,Netherlands,battle,1560.0,"Heiligerlee, 1568 | Eighty Years' War",
+Herbsthausen,49.404531,9.828538,,,,,,Germany,battle,1640.0,"Mergentheim, 1645 | Thirty Years' War",
+"Herefordshire, Worcestershire and Warwickshire",52.2119,-2.1682,1640.0,1660.0,11.0,2.0,0.18181818181818182,United Kingdom,trial,,,1.8712051592547776
+Hessisch Oldendorf,52.1715493,9.2459403,,,,,,Germany,battle,1630.0,"Hessich-Oldendorf, 1633 | Thirty Years' War",
+Highlands and Islands,57.2257,-4.7091,1570.0,1720.0,95.0,6.0,0.06315789473684211,United Kingdom,trial,,,5.499039842323396
+Highnam,51.876149,-2.297121,,,,,,United Kingdom,battle,1640.0,"Highnam, 1643 | British Wars of Religion",
+Hilton,52.871,-1.637,,,,,,United Kingdom,battle,1640.0,"Hilton, 1644 | British Wars of Religion",
+Hochst,49.8007957,8.9950307,,,,,,Germany,battle,1620.0,"Hochst, 1622 | Thirty Years' War",
+Hodonin,48.8529391,17.1260024,,,,,,Czech Republic,battle,1620.0,"Goding, 1623 | Thirty Years' War",
+Hohentwiel,47.7647222,8.8188889,,,,,,Germany,battle,1520.0,"Hohentweil, 1525 | German Peasants' War",
+Honnecourt-sur-Escaut,50.038278,3.199481,,,,,,France,battle,1640.0,"Honnecourt, 1642 | Thirty Years' War",
+Hopton Heath,52.391041,-2.910584,,,,,,United Kingdom,battle,1640.0,"Hopton Heath, 1643 | British Wars of Religion",
+Hulst,51.2806907,4.0548869,,,,,,Netherlands,battle,1640.0,"Hulst, 1645 | Eighty Years' War",
+Ijsselmeer,52.7978321,5.3235903,,,,,,Netherlands,battle,1570.0,"Zuyder Zee (Zuiderzee), 1573 | Eighty Years' War",
+Ile-de-France,48.7196,2.5234,1300.0,1690.0,368.0,65.0,0.1766304347826087,France,trial,,,10.823032759612019
+Ingolstadt,48.7665351,11.4257541,,,,,,Germany,battle,1520.0,"Ingolstadt, 1525 | German Peasants' War<br>Ingolstadt, 1546 | Schmalkaldic Wars<br>Ingolstadt, 1632 | Thirty Years' War",
+Ingolstadt,48.7665351,11.4257541,,,,,,Germany,battle,1540.0,"Ingolstadt, 1525 | German Peasants' War<br>Ingolstadt, 1546 | Schmalkaldic Wars<br>Ingolstadt, 1632 | Thirty Years' War",
+Ingolstadt,48.7665351,11.4257541,,,,,,Germany,battle,1630.0,"Ingolstadt, 1525 | German Peasants' War<br>Ingolstadt, 1546 | Schmalkaldic Wars<br>Ingolstadt, 1632 | Thirty Years' War",
+Inveraray,56.2309517,-5.0771018,,,,,,United Kingdom,battle,1640.0,"Inveraray, 1644 | British Wars of Religion",
+Invergarry,57.070951,-4.800261,,,,,,United Kingdom,battle,1650.0,"Lochgarry (Dalnaspidal), 1654 | British Wars of Religion",
+Inverkeithing,56.030043,-3.398795,,,,,,United Kingdom,battle,1650.0,"Inverkeithing, 1651 | British Wars of Religion",
+Inverlochy,56.825724,-5.094977,,,,,,United Kingdom,battle,1640.0,"Inverlochy, 1645 | British Wars of Religion",
+Inverness,57.477773,-4.224721,,,,,,United Kingdom,battle,1560.0,"Inverness, 1562 | Marian Civil War<br>Inverness, 1646 | British Wars of Religion",
+Inverness,57.477773,-4.224721,,,,,,United Kingdom,battle,1640.0,"Inverness, 1562 | Marian Civil War<br>Inverness, 1646 | British Wars of Religion",
+Isola del Giglio,42.353631,10.901604,,,,,,Italy,battle,1640.0,"Isola del Giglio, 1646 | Thirty Years' War",
+Issoire,45.54151,3.248128,,,,,,France,battle,1570.0,"Issoire, 1577 | French Wars of Religion",
+Ivry,48.813055,2.38822,,,,,,France,battle,1590.0,"Ivry, 1590 | French Wars of Religion",
+Jankov,49.652939,14.730747,,,,,,Czech Republic,battle,1640.0,"Jankau, 1645 | Thirty Years' War",
+Jemgum,53.2682267,7.3849319,,,,,,Germany,battle,1560.0,"Jemmingen, 1568 | Eighty Years' War",
+Jihomoravský kraj,49.0775,16.6376,1350.0,1350.0,2.0,0.0,0.0,Czech Republic,trial,,,0.7978845608028654
+Jodoigne,50.72336,4.87115,,,,,,Belgium,battle,1560.0,"Jodoigne, 1568 | Eighty Years' War",
+Julianstown,53.6729374,-6.285651,,,,,,Ireland,battle,1640.0,"Julianstown, 1641 | British Wars of Religion",
+Julich,50.9224226,6.3639119,,,,,,Germany,battle,1600.0,"Julich, 1609 | Thirty Years' War<br>Julich, 1621 | Thirty Years' War",
+Julich,50.9224226,6.3639119,,,,,,Germany,battle,1620.0,"Julich, 1609 | Thirty Years' War<br>Julich, 1621 | Thirty Years' War",
+Juterbog,51.9964734,13.0756312,,,,,,Germany,battle,1640.0,"Juterbog, 1644 | Thirty Years' War",
+Jönköpings län,57.5365,14.4116,1650.0,1750.0,24.0,0.0,0.0,Sweden,trial,,,2.763953195770684
+Kalmar län,57.2358,16.0568,1640.0,1750.0,36.0,0.0,0.0,Sweden,trial,,,3.385137501286538
+Kappel am Albis,47.2279625,8.5259411,,,,,,Switzerland,battle,1520.0,"Kappel, 1529 | Swiss Religious Wars<br>Zurich (Kappel), 1531 | Swiss Religious Wars",
+Kappel am Albis,47.2279625,8.5259411,,,,,,Switzerland,battle,1530.0,"Kappel, 1529 | Swiss Religious Wars<br>Zurich (Kappel), 1531 | Swiss Religious Wars",
+Karlsruhe,49.0144,8.6727,1440.0,1690.0,440.0,313.0,0.7113636363636363,Germany,trial,,,11.834540545406394
+Kassel,51.0515,9.4556,1590.0,1660.0,5.0,0.0,0.0,Germany,trial,,,1.2615662610100802
+Kempen,51.3649942,6.4205309,,,,,,Germany,battle,1640.0,"Kempen, 1642 | Thirty Years' War",
+Kempten,47.7285699,10.3157835,,,,,,Germany,battle,1520.0,"Kempten, 1525 | German Peasants' War",
+Kent,51.2181,0.6693,1330.0,1690.0,37.0,16.0,0.43243243243243246,United Kingdom,trial,,,3.431831258788849
+Kilrush,52.6406999,-9.4859374,,,,,,Ireland,battle,1640.0,"Kilrush, 1642 | British Wars of Religion",
+Kilsyth,55.979788,-4.056933,,,,,,United Kingdom,battle,1640.0,"Kilsyth, 1645 | British Wars of Religion",
+Kislingbury,52.226684,-0.97832,,,,,,United Kingdom,battle,1640.0,"Borough Hill, 1645 | British Wars of Religion",
+Klodzko,50.4345636,16.6613941,,,,,,Poland,battle,1620.0,"Glatz, 1622 | Thirty Years' War",
+Knocknanuss,51.6880388,-8.8663731,,,,,,Ireland,battle,1640.0,"Knocknanuss, 1647 | British Wars of Religion",
+Koblenz,50.2543,7.5124,1480.0,1700.0,357.0,304.0,0.8515406162464986,Germany,trial,,,10.660048281673648
+Kollum,53.2801424,6.1477459,,,,,,Netherlands,battle,1580.0,"Kollum, 1581 | Eighty Years' War",
+Kreuznach,52.9345045,12.795201,,,,,,Germany,battle,1620.0,"Kreuznach, 1620 | Thirty Years' War",
+Kronobergs län,56.7739,14.5614,1640.0,1750.0,16.0,0.0,0.0,Sweden,trial,,,2.256758334191025
+Kyritz,52.9432288,12.3961712,,,,,,Germany,battle,1630.0,"Kyritz, 1635 | Thirty Years' War",
+Köln,50.8283,6.8087,1320.0,1490.0,10.0,3.0,0.3,Germany,trial,,,1.7841241161527712
+La Charite-sur-Loire,47.177091,3.018014,,,,,,France,battle,1570.0,"La Charite-sur-Loire, 1577 | French Wars of Religion",
+La Roche-l'Abeille,45.596783,1.240181,,,,,,France,battle,1560.0,"La Roche-L'Abeille, 1569 | French Wars of Religion",
+La Rochelle,46.160329,-1.151139,,,,,,France,battle,1570.0,"La Rochelle, 1572 | French Wars of Religion<br>Ile de Re, 1622 | French Wars of Religion<br>La Rochelle, 1625 | French Wars of Religion<br>La Rochelle, 1627 | French Wars of Religion",
+La Rochelle,46.160329,-1.151139,,,,,,France,battle,1620.0,"La Rochelle, 1572 | French Wars of Religion<br>Ile de Re, 1622 | French Wars of Religion<br>La Rochelle, 1625 | French Wars of Religion<br>La Rochelle, 1627 | French Wars of Religion",
+Lancashire,53.849,-2.5722,1590.0,1700.0,65.0,19.0,0.2923076923076923,United Kingdom,trial,,,4.54864184146723
+Landsdown Hill,52.902673,-1.2628913,,,,,,United Kingdom,battle,1640.0,"Lansdown, 1643 | British Wars of Religion",
+Landshut,48.5441917,12.1468532,,,,,,Germany,battle,1630.0,"Landshut, 1634 | Thirty Years' War",
+Landstuhl,49.4141464,7.5709052,,,,,,Germany,battle,1520.0,"Landstuhl, 1523 | Knights' Revolt",
+Langport,51.038134,-2.828719,,,,,,United Kingdom,battle,1640.0,"Langport, 1645 | British Wars of Religion",
+Langside,56.3016086,-3.9542091,,,,,,United Kingdom,battle,1560.0,"Langside, 1568 | Marian Civil War",
+Languedoc-Roussillon,43.6073,3.25,1310.0,1490.0,11.0,3.0,0.2727272727272727,France,trial,,,1.8712051592547776
+Latham,51.287227,0.290851,,,,,,United Kingdom,battle,1640.0,"Latham, 1644 | British Wars of Religion",
+Laugharne,51.769203,-4.464252,,,,,,United Kingdom,battle,1640.0,"Laugharne, 1644 | British Wars of Religion",
+Launceston,50.640134,-4.358558,,,,,,United Kingdom,battle,1640.0,"Launceston, 1643 | British Wars of Religion",
+Lazio,41.9898,12.7501,1420.0,1460.0,3.0,2.0,0.6666666666666666,Italy,trial,,,0.9772050238058398
+Le Havre,49.49437,0.107929,,,,,,France,battle,1560.0,"Le Havre, 1563 | French Wars of Religion",
+Leeds,53.8007554,-1.5490774,,,,,,United Kingdom,battle,1640.0,"Seacroft Moor, 1643 | British Wars of Religion",
+Legnica,51.2070067,16.1553231,,,,,,Poland,battle,1630.0,"Liegnitz, 1634 | Thirty Years' War",
+Leicester,52.6368778,-1.1397592,,,,,,United Kingdom,battle,1640.0,"Leicester, 1645 | British Wars of Religion",
+"Leicestershire, Rutland and Northamptonshire",52.5014,-0.9539,1440.0,1710.0,70.0,36.0,0.5142857142857142,United Kingdom,trial,,,4.720348719413148
+Leiden,52.1601144,4.4970097,,,,,,Netherlands,battle,1570.0,"Leyden (Leiden), 1573 | Eighty Years' War",
+Leipheim,48.4444121,10.2263059,,,,,,Germany,battle,1520.0,"Leipheim, 1525 | German Peasants' War",
+Leipzig,51.3397,12.37307,,,,,,Germany,battle,1640.0,"Breitenfeld, 1631 | Thirty Years' War<br>Breitenfeld, 1642 | Thirty Years' War",
+Leipzig,51.3397,12.37307,,,,,,Germany,battle,1630.0,"Breitenfeld, 1631 | Thirty Years' War<br>Breitenfeld, 1642 | Thirty Years' War",
+Lens,50.42893,2.83183,,,,,,France,battle,1640.0,"Lens, 1648 | Thirty Years' War",
+Les Salces,44.534143,3.162048,,,,,,France,battle,1630.0,"Salces, 1639 | Thirty Years' War",
+Leubas,47.7637923,10.3371232,,,,,,Germany,battle,1520.0,"Leubas River, 1525 | German Peasants' War",
+Leuven,50.883333,4.7,,,,,,Belgium,battle,1630.0,"Leuven (Louvain), 1635 | Eighty Years' War",
+Limerick,52.6680204,-8.6304975,,,,,,Ireland,battle,1650.0,"Limerick, 1651 | British Wars of Religion",
+Lincolnshire,53.0953,-0.2667,1600.0,1630.0,7.0,4.0,0.5714285714285714,United Kingdom,trial,,,1.4927053303604616
+Lingen,52.52306,7.323279,,,,,,Germany,battle,1590.0,"Lingen, 1597 | Eighty Years' War<br>Lingen, 1605 | Eighty Years' War",
+Lingen,52.52306,7.323279,,,,,,Germany,battle,1600.0,"Lingen, 1597 | Eighty Years' War<br>Lingen, 1605 | Eighty Years' War",
+Linz,48.30694,14.28583,,,,,,Austria,battle,1620.0,"Linz, 1626 | Thirty Years' War",
+Lisburn,54.516246,-6.0580106,,,,,,United Kingdom,battle,1640.0,"Lisburn, 1642 | British Wars of Religion",
+Liscarroll,52.2600757,-8.8041682,,,,,,Ireland,battle,1640.0,"Liscarroll, 1647 | British Wars of Religion",
+Lleida,41.6175899,0.6200146,,,,,,Spain,battle,1640.0,"Lerida, 1644 | Thirty Years' War<br>Lerida, 1646 | Thirty Years' War<br>Lerida, 1647 | Thirty Years' War",
+Lolland,54.727543,11.46493,,,,,,Denmark,battle,1640.0,"Lolland, 1644 | Thirty Years' War",
+Lombardia,45.6127,9.773,1360.0,1480.0,51.0,42.0,0.8235294117647058,Italy,trial,,,4.029119531035698
+Londonderry,54.9966124,-7.3085748,,,,,,United Kingdom,battle,1640.0,"Londonderry, 1649 | British Wars of Religion",
+Long Marston,52.134166,-1.778136,,,,,,United Kingdom,battle,1640.0,"Marston Moor, 1644 | British Wars of Religion",
+Lorraine,48.755,6.1359,1370.0,1660.0,1671.0,405.0,0.24236983842010773,France,trial,,,23.06286668680011
+Lorsch,49.6510898,8.5650614,,,,,,Germany,battle,1620.0,"Lorsch, 1622 | Thirty Years' War",
+Lostwithiel,50.406021,-4.6750679,,,,,,United Kingdom,battle,1640.0,"Lostwithiel, 1644 | British Wars of Religion",
+Lutter am Barenberge,51.9893213,10.2678979,,,,,,Germany,battle,1620.0,"Lutter am Barenberg, 1626 | Thirty Years' War",
+Lutzen,51.2558562,12.1417687,,,,,,Germany,battle,1630.0,"Lutzen, 1632 | Thirty Years' War",
+Luxembourg,49.771,6.0943,1580.0,1640.0,216.0,99.0,0.4583333333333333,Luxembourg,trial,,,8.291859587312052
+Luzern,47.0895,8.1328,1390.0,1730.0,762.0,168.0,0.2204724409448819,Switzerland,trial,,,15.574085310927526
+Lyme Regis,50.725156,-2.936639,,,,,,United Kingdom,battle,1640.0,"Lyme, 1645 | British Wars of Religion",
+Lüneburg,52.9952,10.0416,1440.0,1440.0,4.0,3.0,0.75,Germany,trial,,,1.1283791670955126
+Maastricht,50.8513682,5.6909725,,,,,,Netherlands,battle,1570.0,"Maastricht, 1579 | Eighty Years' War<br>Maastricht, 1632 | Eighty Years' War",
+Maastricht,50.8513682,5.6909725,,,,,,Netherlands,battle,1630.0,"Maastricht, 1579 | Eighty Years' War<br>Maastricht, 1632 | Eighty Years' War",
+Macroom,51.9048039,-8.9588478,,,,,,Ireland,battle,1650.0,"Macroom, 1650 | British Wars of Religion",
+Magdeburg,52.1205333,11.6276237,,,,,,Germany,battle,1630.0,"Magdeburg, 1630 | Thirty Years' War",
+Magyarország,47.1616,19.4066,1520.0,1770.0,1644.0,474.0,0.28832116788321166,Hungary,trial,,,22.875783109789968
+Maidstone,51.270363,0.522699,,,,,,United Kingdom,battle,1640.0,"Maidstone, 1648 | British Wars of Religion",
+Mainz,49.9928617,8.2472526,,,,,,Germany,battle,1630.0,"Mainz, 1635 | Thirty Years' War",
+Manner-Suomi,64.4974,26.2795,1520.0,1690.0,710.0,115.0,0.1619718309859155,Finland,trial,,,15.033297016639143
+Mannheim,49.4874592,8.4660395,,,,,,Germany,battle,1620.0,"Mannheim, 1622 | Thirty Years' War",
+Mantua,45.1564168,10.7913751,,,,,,Italy,battle,1620.0,"Mantua, 1629 | Thirty Years' War",
+Marche,43.3477,13.153,1320.0,1320.0,1.0,0.0,0.0,Italy,trial,,,0.5641895835477563
+Mauchline,55.515888,-4.3777549,,,,,,United Kingdom,battle,1640.0,"Mauchline Muir, 1648 | British Wars of Religion",
+Mechelen,51.0258761,4.4775362,,,,,,Belgium,battle,1570.0,"Mechelen, 1572 | Eighty Years' War<br>Mechelen, 1579 | Eighty Years' War<br>Mechelen, 1580 | Eighty Years' War<br>Mechelen, 1585 | Eighty Years' War",
+Mechelen,51.0258761,4.4775362,,,,,,Belgium,battle,1580.0,"Mechelen, 1572 | Eighty Years' War<br>Mechelen, 1579 | Eighty Years' War<br>Mechelen, 1580 | Eighty Years' War<br>Mechelen, 1585 | Eighty Years' War",
+Mecklenburg-Vorpommern,53.7138,12.4675,1570.0,1700.0,3844.0,0.0,0.0,Germany,trial,,,34.97975417996089
+Medemblik,52.7674467,5.1069179,,,,,,Netherlands,battle,1580.0,"Medemblik, 1588 | Eighty Years' War",
+Melnik,50.353902,14.481781,,,,,,Czech Republic,battle,1630.0,"Melnik, 1639 | Thirty Years' War",
+Metz,49.1193089,6.1757156,,,,,,France,battle,1550.0,"Metz, 1552 | Schmalkaldic Wars",
+Middleburg,51.4987962,3.610998,,,,,,Netherlands,battle,1570.0,"Middelburg, 1572 | Eighty Years' War",
+Midi-Pyrénées,43.771,1.4911,1320.0,1590.0,74.0,58.0,0.7837837837837838,France,trial,,,4.853342309955121
+Midtjylland,56.2457,9.3996,1620.0,1620.0,1.0,0.0,0.0,Denmark,trial,,,0.5641895835477563
+Mittelfranken,49.3524,10.7811,1300.0,1790.0,3438.0,1156.0,0.33624200116346714,Germany,trial,,,33.08095205250103
+Moncontour,48.361272,-2.63149,,,,,,France,battle,1560.0,"Moncontour, 1569 | French Wars of Religion",
+Mons,50.4542408,3.956659,,,,,,Belgium,battle,1570.0,"Mons, 1572 | Eighty Years' War",
+Montauban,44.0221252,1.3529599,,,,,,France,battle,1620.0,"Montauban, 1621 | French Wars of Religion",
+Monte Baldo,45.5670961,10.7730519,,,,,,Italy,battle,1630.0,"Monte Baldo, 1637 | Thirty Years' War",
+Montpellier,43.610769,3.876716,,,,,,France,battle,1620.0,"Montpellier, 1622 | French Wars of Religion",
+Mook en Middelaar,51.7521696,5.8962161,,,,,,Netherlands,battle,1570.0,"Mookerheyde, 1574 | Eighty Years' War",
+Muhlberg,50.8675,10.824167,,,,,,Germany,battle,1540.0,"Muhlberg, 1547 | Schmalkaldic Wars",
+Mulheim,51.4185682,6.8845226,,,,,,Germany,battle,1600.0,"Mulheim, 1605 | Eighty Years' War",
+Musselburgh,55.941941,-3.053918,,,,,,United Kingdom,battle,1650.0,"Carberry Hill, 1567 | Marian Civil War<br>Musselburgh, 1650 | British Wars of Religion",
+Musselburgh,55.941941,-3.053918,,,,,,United Kingdom,battle,1560.0,"Carberry Hill, 1567 | Marian Civil War<br>Musselburgh, 1650 | British Wars of Religion",
+Naarden,52.2952549,5.1604238,,,,,,Netherlands,battle,1570.0,"Naarden, 1572 | Eighty Years' War",
+Namur,50.4673883,4.8719854,,,,,,Belgium,battle,1570.0,"Namur, 1577 | Eighty Years' War",
+Nantwich,53.067185,-2.524102,,,,,,United Kingdom,battle,1640.0,"Nantwich, 1644 | British Wars of Religion",
+Naseby,52.3954519,-0.9885334,,,,,,United Kingdom,battle,1640.0,"Naseby, 1645 | British Wars of Religion",
+Neubrandenburg,53.5678292,13.2779269,,,,,,Germany,battle,1630.0,"Neubrandenburg, 1631 | Thirty Years' War",
+Neuchâtel,46.9925,6.7941,1430.0,1740.0,785.0,228.0,0.29044585987261146,Switzerland,trial,,,15.807379942744328
+Neuss,51.2041968,6.6879511,,,,,,Germany,battle,1580.0,"Neuss, 1585 | Eighty Years' War",
+Newark on Trent,53.0765,-0.81,,,,,,United Kingdom,battle,1640.0,"Newark, 1644 | British Wars of Religion",
+Newburn,54.9842861,-1.7425365,,,,,,United Kingdom,battle,1640.0,"Newburn, 1640 | British Wars of Religion",
+Newbury,51.401409,-1.3231139,,,,,,United Kingdom,battle,1640.0,"Newbury, 1643 | British Wars of Religion<br>Newbury, 1644 | British Wars of Religion",
+Newry,54.1751024,-6.3402299,,,,,,United Kingdom,battle,1640.0,"Newry, 1642 | British Wars of Religion",
+Nidwalden,46.9426,8.4268,1550.0,1690.0,90.0,85.0,0.9444444444444444,Switzerland,trial,,,5.352372348458314
+Niederbayern,48.7009,12.8023,1410.0,1430.0,2.0,1.0,0.5,Germany,trial,,,0.7978845608028654
+Niederösterreich,48.2589,15.7601,1310.0,1310.0,1.0,0.0,0.0,Austria,trial,,,0.5641895835477563
+Nieuwpoort,51.1284823,2.7480158,,,,,,Belgium,battle,1600.0,"Nieuport (Nieuwpoort), 1600 | Eighty Years' War",
+Noord-Brabant,51.5461,5.4595,1370.0,1710.0,6.0,0.0,0.0,Netherlands,trial,,,1.381976597885342
+Noord-Holland,52.5945,4.9123,1490.0,1820.0,136.0,13.0,0.09558823529411764,Netherlands,trial,,,6.579524642479541
+Nord-Pas de Calais,50.4789,2.7098,1300.0,1790.0,375.0,47.0,0.12533333333333332,France,trial,,,10.925484305920792
+Nordlingen,48.8508157,10.4894906,,,,,,Germany,battle,1640.0,"Nordlingen, 1634 | Thirty Years' War<br>Nordlingen, 1645 | Thirty Years' War",
+Nordlingen,48.8508157,10.4894906,,,,,,Germany,battle,1630.0,"Nordlingen, 1634 | Thirty Years' War<br>Nordlingen, 1645 | Thirty Years' War",
+Norge,61.3875,9.2981,1560.0,1750.0,863.0,280.0,0.32444959443800697,Norway,trial,,,16.574119336381386
+North Eastern Scotland,57.2021,-2.6876,1590.0,1700.0,29.0,2.0,0.06896551724137931,United Kingdom,trial,,,3.0382538898732494
+North Yorkshire,54.182,-1.4153,1480.0,1680.0,78.0,2.0,0.02564102564102564,United Kingdom,trial,,,4.982787485166879
+Northern Ireland,54.6306,-6.6253,1690.0,1710.0,9.0,0.0,0.0,United Kingdom,trial,,,1.692568750643269
+Northumberland and Tyne and Wear,55.2213,-2.0012,1580.0,1680.0,86.0,16.0,0.18604651162790697,United Kingdom,trial,,,5.232078956954491
+Oberbayern,48.1065,11.7436,1490.0,1720.0,248.0,1.0,0.004032258064516129,Germany,trial,,,8.884866446580956
+Oberfranken,50.0492,11.383,1420.0,1660.0,14.0,9.0,0.6428571428571429,Germany,trial,,,2.111004122822376
+Oberpfalz,49.3959,12.1142,1450.0,1590.0,7.0,1.0,0.14285714285714285,Germany,trial,,,1.4927053303604616
+Oberösterreich,48.143,13.9503,1490.0,1680.0,5.0,1.0,0.2,Austria,trial,,,1.2615662610100802
+Obwalden,46.8527,8.2244,1550.0,1690.0,90.0,85.0,0.9444444444444444,Switzerland,trial,,,5.352372348458314
+Old Ross,52.39195,-6.82663,,,,,,Ireland,battle,1640.0,"Old Ross, 1643 | British Wars of Religion",
+Oldenzaal,52.3116551,6.9268283,,,,,,Netherlands,battle,1590.0,"Oldenzaal, 1597 | Eighty Years' War",
+Olomouc,49.593778,17.2508787,,,,,,Czech Republic,battle,1640.0,"Olmutz, 1642 | Thirty Years' War",
+Orbetello,42.4396474,11.2124083,,,,,,Italy,battle,1640.0,"Orbetello, 1646 | Thirty Years' War",
+Orleans,47.902964,1.909251,,,,,,France,battle,1560.0,"Orleans, 1563 | French Wars of Religion",
+Orthez,43.48756,-0.7739279,,,,,,France,battle,1560.0,"Orthez, 1569 | French Wars of Religion",
+Ostend,51.21543,2.928656,,,,,,Belgium,battle,1600.0,"Ostend, 1601 | Eighty Years' War",
+Oudenaarde,50.846955,3.601368,,,,,,Belgium,battle,1570.0,"Oudenaarde, 1578 | Eighty Years' War",
+Outer London — West and North West,51.5394,-0.3338,1550.0,1700.0,84.0,14.0,0.16666666666666666,United Kingdom,trial,,,5.170882945826411
+Paris,48.856614,2.3522219,,,,,,France,battle,1590.0,"St. Bartholomew's Eve, 1572 | French Wars of Religion<br>Paris, 1590 | French Wars of Religion",
+Paris,48.856614,2.3522219,,,,,,France,battle,1570.0,"St. Bartholomew's Eve, 1572 | French Wars of Religion<br>Paris, 1590 | French Wars of Religion",
+Parma,44.801485,10.3279036,,,,,,Italy,battle,1550.0,"Parma, 1551 | Schmalkaldic Wars",
+Pays de la Loire,47.4936,-0.7959,1440.0,1590.0,10.0,10.0,1.0,France,trial,,,1.7841241161527712
+País Vasco,43.0651,-2.5863,1610.0,1610.0,365.0,0.0,0.0,Spain,trial,,,10.778826859036359
+Pembroke,51.674043,-4.908637,,,,,,United Kingdom,battle,1640.0,"Pembroke, 1648 | British Wars of Religion",
+Perth,56.394994,-3.430838,,,,,,United Kingdom,battle,1640.0,"Tippermuir, 1644 | British Wars of Religion",
+Peuerbach,48.3447243,13.7708033,,,,,,Austria,battle,1620.0,"Peuerbach, 1626 | Thirty Years' War",
+Pfaffenhofen,48.5325215,11.4977392,,,,,,Germany,battle,1630.0,"Pfaffenhofen, 1633 | Thirty Years' War",
+Pfeddersheim,49.6372769,8.273839,,,,,,Germany,battle,1520.0,"Pfeddersheim, 1525 | German Peasants' War",
+Picardie,49.6406,2.7999,1380.0,1480.0,9.0,5.0,0.5555555555555556,France,trial,,,1.692568750643269
+Piemonte,45.0634,7.9189,1340.0,1470.0,12.0,8.0,0.6666666666666666,Italy,trial,,,1.9544100476116797
+Piercebridge,54.53683,-1.677401,,,,,,United Kingdom,battle,1640.0,"Piercebridge, 1643 | British Wars of Religion",
+Pilsen,49.738431,13.373637,,,,,,Czech Republic,battle,1610.0,"Pilsen, 1618 | Thirty Years' War",
+Plauen,50.4976133,12.1368679,,,,,,Germany,battle,1640.0,"Plauen, 1640 | Thirty Years' War",
+Poitiers,46.580224,0.340375,,,,,,France,battle,1560.0,"Poitiers, 1569 | French Wars of Religion",
+Poitou-Charentes,46.1644,-0.0669,1470.0,1560.0,5.0,5.0,1.0,France,trial,,,1.2615662610100802
+Porto Azzurro,42.7632329,10.3947803,,,,,,Italy,battle,1640.0,"Porto Longone, 1646 | Thirty Years' War",
+Prague,50.0755381,14.4378005,,,,,,Czech Republic,battle,1620.0,"White Mountain (Prague), 1620 | Thirty Years' War<br>Prague, 1648 | Thirty Years' War",
+Prague,50.0755381,14.4378005,,,,,,Czech Republic,battle,1640.0,"White Mountain (Prague), 1620 | Thirty Years' War<br>Prague, 1648 | Thirty Years' War",
+Preston,53.763201,-2.70309,,,,,,United Kingdom,battle,1640.0,"Preston, 1648 | British Wars of Religion",
+Prov. Antwerpen,51.2212,4.7245,1660.0,1660.0,1.0,1.0,1.0,Belgium,trial,,,0.5641895835477563
+Prov. Brabant Wallon,50.6659,4.5923,1450.0,1620.0,6.0,2.0,0.3333333333333333,Belgium,trial,,,1.381976597885342
+Prov. Hainaut,50.5255,3.917,1410.0,1640.0,34.0,17.0,0.5,Belgium,trial,,,3.2897623212397704
+Prov. Liège,50.5203,5.731,1510.0,1610.0,14.0,4.0,0.2857142857142857,Belgium,trial,,,2.111004122822376
+Prov. Luxembourg (BE),49.9568,5.5211,1580.0,1640.0,209.0,48.0,0.22966507177033493,Belgium,trial,,,8.156394191823509
+Prov. Namur,50.2736,4.867,1500.0,1640.0,245.0,89.0,0.363265306122449,Belgium,trial,,,8.83096382707056
+Prov. Oost-Vlaanderen,51.0316,3.8091,1530.0,1680.0,35.0,35.0,1.0,Belgium,trial,,,3.3377905890622728
+Prov. Vlaams-Brabant,50.8737,4.5725,1590.0,1590.0,1.0,1.0,1.0,Belgium,trial,,,0.5641895835477563
+Prov. West-Vlaanderen,51.0178,3.0517,1450.0,1670.0,156.0,75.0,0.4807692307692308,Belgium,trial,,,7.046725639945928
+Provence-Alpes-Côte d’Azur,43.9629,6.0641,1310.0,1650.0,31.0,20.0,0.6451612903225806,France,trial,,,3.141274657157109
+Provincia Autonoma di Trento,46.1313,10.859,1370.0,1450.0,4.0,1.0,0.25,Italy,trial,,,1.1283791670955126
+Rain,48.6901541,10.9208893,,,,,,Germany,battle,1640.0,"Rain (Lech), 1632 | Thirty Years' War<br>Rain (Lech), 1648 | Thirty Years' War",
+Rain,48.6901541,10.9208893,,,,,,Germany,battle,1630.0,"Rain (Lech), 1632 | Thirty Years' War<br>Rain (Lech), 1648 | Thirty Years' War",
+Rathlin Island,55.297949,-6.20728,,,,,,United Kingdom,battle,1640.0,"Rathlin Island, 1642 | British Wars of Religion",
+Reading,51.4542645,-0.9781303,,,,,,United Kingdom,battle,1640.0,"Reading, 1643 | British Wars of Religion",
+Regensberg,49.0134297,12.1016236,,,,,,Germany,battle,1630.0,"Regensburg, 1633 | Thirty Years' War<br>Regensburg, 1634 | Thirty Years' War",
+Rheinberg,51.5460798,6.5899097,,,,,,Germany,battle,1600.0,"Rheinberg, 1597 | Eighty Years' War<br>Rheinberg, 1606 | Eighty Years' War<br>Rheinberg, 1637 | Eighty Years' War",
+Rheinberg,51.5460798,6.5899097,,,,,,Germany,battle,1590.0,"Rheinberg, 1597 | Eighty Years' War<br>Rheinberg, 1606 | Eighty Years' War<br>Rheinberg, 1637 | Eighty Years' War",
+Rheinberg,51.5460798,6.5899097,,,,,,Germany,battle,1630.0,"Rheinberg, 1597 | Eighty Years' War<br>Rheinberg, 1606 | Eighty Years' War<br>Rheinberg, 1637 | Eighty Years' War",
+Rheinfelden,47.561111,7.791667,,,,,,Germany,battle,1630.0,"Rheinfelden, 1638 | Thirty Years' War",
+Rheinhessen-Pfalz,49.4587,7.9492,1420.0,1420.0,1.0,1.0,1.0,Germany,trial,,,0.5641895835477563
+Rheinsberg,53.0983691,12.8974874,,,,,,Germany,battle,1580.0,"Rheinsberg, 1588 | Eighty Years' War",
+Rhône-Alpes,45.442,5.3448,1330.0,1740.0,246.0,232.0,0.943089430894309,France,trial,,,8.848967849484623
+Rijmenam,51.0037609,4.5902677,,,,,,Belgium,battle,1570.0,"Rymenant (Rijmenam), 1578 | Eighty Years' War",
+Rocroi,49.925149,4.519757,,,,,,France,battle,1640.0,"Rocroi, 1643 | Thirty Years' War",
+Rosas,42.26052,3.208099,,,,,,Spain,battle,1640.0,"Rosas, 1645 | Thirty Years' War",
+Rossing,52.183889,9.813056,,,,,,Germany,battle,1620.0,"Rossing, 1626 | Thirty Years' War",
+Rottweil,48.1610687,8.6316219,,,,,,Germany,battle,1640.0,"Rottweil, 1643 | Thirty Years' War",
+Rouen,49.443232,1.099971,,,,,,France,battle,1560.0,"Rouen, 1562 | French Wars of Religion<br>Rouen, 1591 | French Wars of Religion",
+Rouen,49.443232,1.099971,,,,,,France,battle,1590.0,"Rouen, 1562 | French Wars of Religion<br>Rouen, 1591 | French Wars of Religion",
+Rowde,51.362539,-2.034098,,,,,,United Kingdom,battle,1640.0,"Rowde Ford, 1643 | British Wars of Religion",
+Rowton,53.172388,-2.831632,,,,,,United Kingdom,battle,1640.0,"Rowton Heath, 1645 | British Wars of Religion",
+Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,50.8401,4.3569,1380.0,1380.0,1.0,0.0,0.0,Belgium,trial,,,0.5641895835477563
+Saarland,49.3922,6.957,1570.0,1630.0,256.0,156.0,0.609375,Germany,trial,,,9.0270333367641
+Sachsen-Anhalt,52.011,11.6996,1580.0,1620.0,245.0,0.0,0.0,Germany,trial,,,8.83096382707056
+Saint-Denis,48.936181,2.357443,,,,,,France,battle,1560.0,"Saint-Denis, 1567 | French Wars of Religion",
+Saint-Jean-d'Angely,45.944823,-0.517763,,,,,,France,battle,1560.0,"Saint-Jean-d'Angely, 1569 | French Wars of Religion<br>Saint-Jean-d'Angely, 1621 | French Wars of Religion",
+Saint-Jean-d'Angely,45.944823,-0.517763,,,,,,France,battle,1620.0,"Saint-Jean-d'Angely, 1569 | French Wars of Religion<br>Saint-Jean-d'Angely, 1621 | French Wars of Religion",
+Saint-Jean-de-Losne,47.102266,5.262806,,,,,,France,battle,1630.0,"Saint Jean de Losne, 1635 | Thirty Years' War",
+Saint-Omer,50.750115,2.252208,,,,,,France,battle,1630.0,"Saint-Omer, 1638 | Thirty Years' War",
+Salzburg,47.2823,13.0002,1340.0,1340.0,1.0,0.0,0.0,Austria,trial,,,0.5641895835477563
+Sancerre,47.329583,2.839867,,,,,,France,battle,1570.0,"Sancerre, 1573 | French Wars of Religion",
+Sas Van Gent,51.2276878,3.7999937,,,,,,Netherlands,battle,1640.0,"Sas van Gent, 1644 | Eighty Years' War",
+Saverne,48.741963,7.361647,,,,,,France,battle,1520.0,"Zabern (Saverne), 1525 | German Peasants' War",
+Scarborough,54.283113,-0.399752,,,,,,United Kingdom,battle,1640.0,"Scarborough Castle, 1645 | British Wars of Religion",
+Schaffhausen,47.7254,8.5751,1490.0,1490.0,2.0,0.0,0.0,Switzerland,trial,,,0.7978845608028654
+Schladming,47.394203,13.68544,,,,,,Austria,battle,1520.0,"Schladming, 1525 | German Peasants' War",
+Schoonhoven,51.9525204,4.8432204,,,,,,Netherlands,battle,1570.0,"Schoonhoven, 1575 | Eighty Years' War",
+Schwaben,48.168,10.5277,1340.0,1700.0,182.0,132.0,0.7252747252747253,Germany,trial,,,7.611333607551958
+Schwyz,47.0678,8.7659,1550.0,1690.0,45.0,30.0,0.6666666666666666,Switzerland,trial,,,3.7846987830302403
+Sedan,49.70349,4.93863,,,,,,France,battle,1640.0,"La Marfee, 1641 | Thirty Years' War",
+Selby,53.783524,-1.067189,,,,,,United Kingdom,battle,1640.0,"Selby, 1644 | British Wars of Religion",
+Selkirk,55.550658,-2.838524,,,,,,United Kingdom,battle,1640.0,"Philiphaugh, 1645 | British Wars of Religion",
+Shropshire and Staffordshire,52.7367,-2.4072,1570.0,1630.0,5.0,1.0,0.2,United Kingdom,trial,,,1.2615662610100802
+Sierck-les-Bains,49.442631,6.361008,,,,,,France,battle,1640.0,"Sierck, 1643 | Thirty Years' War",
+Sieveshausen,51.769722,9.655833,,,,,,Germany,battle,1550.0,"Sieveshausen, 1553 | Schmalkaldic Wars",
+Skåne län,55.9618,13.6279,1670.0,1750.0,36.0,0.0,0.0,Sweden,trial,,,3.385137501286538
+Sluis,51.3086558,3.3879195,,,,,,Netherlands,battle,1600.0,"Sluys (Sluis), 1603 | Eighty Years' War<br>Sluys (Sluis), 1604 | Eighty Years' War",
+Solothurn,47.3306,7.6783,1380.0,1710.0,147.0,61.0,0.41496598639455784,Switzerland,trial,,,6.840435166640879
+Sonderby,55.05508,8.500691,,,,,,Denmark,battle,1640.0,"Lister Deep (Listerdyb), 1644 | Thirty Years' War",
+Sourton,50.691741,-4.078756,,,,,,United Kingdom,battle,1640.0,"Sourton Down, 1643 | British Wars of Religion",
+Southern,52.3625,-8.3667,1320.0,1660.0,52.0,1.0,0.019230769230769232,Ireland,trial,,,4.068428945128219
+Southern Scotland,55.3604,-3.6962,1560.0,1700.0,126.0,18.0,0.14285714285714285,United Kingdom,trial,,,6.333012368467128
+St. Gallen,47.1144,9.371,1480.0,1720.0,45.0,18.0,0.4,Switzerland,trial,,,3.7846987830302403
+Stadtlohn,51.9920909,6.9137972,,,,,,Germany,battle,1620.0,"Stadtlohn, 1623 | Thirty Years' War",
+Steenbergen,51.5812395,4.3155991,,,,,,Netherlands,battle,1580.0,"Steenbergen, 1583 | Eighty Years' War",
+Steenwijk,52.7868939,6.1180686,,,,,,Netherlands,battle,1580.0,"Steenwijk, 1580 | Eighty Years' War<br>Steenwijk, 1592 | Eighty Years' War",
+Steenwijk,52.7868939,6.1180686,,,,,,Netherlands,battle,1590.0,"Steenwijk, 1580 | Eighty Years' War<br>Steenwijk, 1592 | Eighty Years' War",
+Steinau an der stasse,50.3166763,9.4512418,,,,,,Germany,battle,1630.0,"Steinau, 1632 | Thirty Years' War<br>Steinau, 1633 | Thirty Years' War",
+Stirling,56.1165227,-3.9369029,,,,,,United Kingdom,battle,1560.0,"Chaseabout Raid, 1565 | Marian Civil War",
+Stonehaven,56.963661,-2.209288,,,,,,United Kingdom,battle,1630.0,"Megray Hill, 1639 | British Wars of Religion",
+Stow-on-the-Wold,51.931364,-1.726444,,,,,,United Kingdom,battle,1640.0,"Stow, 1646 | British Wars of Religion",
+Stralsund,54.3090654,13.0770347,,,,,,Germany,battle,1620.0,"Stralsund, 1628 | Thirty Years' War",
+Stranraer,54.903367,-5.024055,,,,,,United Kingdom,battle,1640.0,"Lagganmore, 1646 | British Wars of Religion",
+Strathdon,57.199078,-3.07456,,,,,,United Kingdom,battle,1640.0,"Strathdon, 1645 | British Wars of Religion",
+Stratton,50.8306929,-4.514386,,,,,,United Kingdom,battle,1640.0,"Stratton, 1643 | British Wars of Religion",
+Stuttgart,49.0149,9.624,1500.0,1750.0,1534.0,1024.0,0.6675358539765319,Germany,trial,,,22.09722528748655
+Sulzberg,47.6609921,10.3480918,,,,,,Germany,battle,1520.0,"Sulzberg, 1525 | German Peasants' War",
+Summerhill,53.4813655,-6.7325147,,,,,,Ireland,battle,1640.0,"Dungan Hill, 1647 | British Wars of Religion",
+"Surrey, East and West Sussex",51.0593,-0.2235,1570.0,1660.0,10.0,0.0,0.0,United Kingdom,trial,,,1.7841241161527712
+Swidnica,50.849843,16.475679,,,,,,Poland,battle,1640.0,"Schweidnitz, 1642 | Thirty Years' War",
+Syddanmark,55.4038,9.0569,1570.0,1650.0,50.0,0.0,0.0,Denmark,trial,,,3.989422804014327
+Tadcaster,53.883551,-1.260889,,,,,,United Kingdom,battle,1640.0,"Tadcaster, 1642 | British Wars of Religion",
+Taunton,51.015344,-3.106849,,,,,,United Kingdom,battle,1640.0,"Taunton, 1644 | British Wars of Religion",
+Tees Valley and Durham,54.6684,-1.7005,1430.0,1660.0,17.0,2.0,0.11764705882352941,United Kingdom,trial,,,2.326213245840639
+Tewkesbury,51.992265,-2.15796,,,,,,United Kingdom,battle,1640.0,"Ripple Field, 1643 | British Wars of Religion",
+Thann,47.810702,7.102382,,,,,,France,battle,1630.0,"Thann, 1639 | Thirty Years' War",
+The Downs,51.899764,0.4097467,,,,,,United Kingdom,battle,1630.0,"Downs, 1639 | Eighty Years' War",
+Thionville,49.357571,6.168426,,,,,,France,battle,1640.0,"Thionville, 1639 | Thirty Years' War<br>Thionville, 1643 | Thirty Years' War",
+Thionville,49.357571,6.168426,,,,,,France,battle,1630.0,"Thionville, 1639 | Thirty Years' War<br>Thionville, 1643 | Thirty Years' War",
+Tholen,51.5332946,4.2162383,,,,,,Netherlands,battle,1630.0,"Slaak, 1631 | Eighty Years' War",
+Thurgau,47.5656,9.0814,1450.0,1450.0,5.0,2.0,0.4,Switzerland,trial,,,1.2615662610100802
+Ticino,46.3045,8.8082,1430.0,1740.0,290.0,124.0,0.42758620689655175,Switzerland,trial,,,9.607802401865856
+Tirol,47.1809,10.7635,1430.0,1480.0,60.0,0.0,0.0,Austria,trial,,,4.370193722368317
+Tornavento,45.5813483,8.7097632,,,,,,Italy,battle,1630.0,"Tornavento, 1636 | Thirty Years' War",
+Toscana,43.4794,11.1306,1370.0,1420.0,11.0,2.0,0.18181818181818182,Italy,trial,,,1.8712051592547776
+Tournai,50.6056475,3.3879338,,,,,,Belgium,battle,1580.0,"Tournai, 1581 | Eighty Years' War",
+Trier,49.749992,6.6371433,,,,,,Germany,battle,1520.0,"Trier, 1522 | Knights' Revolt",
+Trier,49.9762,6.703,1490.0,1650.0,413.0,364.0,0.8813559322033898,Germany,trial,,,11.465687201119065
+Turiff,57.538932,-2.4623,,,,,,United Kingdom,battle,1630.0,"Turriff, 1639 | British Wars of Religion",
+Turin,45.070312,7.6868565,,,,,,Italy,battle,1640.0,"Turnin, 1640 | Thirty Years' War",
+Turnhout,51.3216509,4.9375577,,,,,,Belgium,battle,1590.0,"Turnhout, 1597 | Eighty Years' War",
+Tuttlingen,47.9823316,8.8192095,,,,,,Germany,battle,1640.0,"Tuttlingen, 1643 | Thirty Years' War",
+Tübingen,48.1316,9.5041,1320.0,1710.0,1211.0,933.0,0.7704376548307185,Germany,trial,,,19.633473257897354
+Uberlingen,47.7661746,9.1702772,,,,,,Germany,battle,1640.0,"Uberlingen, 1647 | Thirty Years' War",
+Umbria,42.9717,12.4893,1420.0,1460.0,3.0,2.0,0.6666666666666666,Italy,trial,,,0.9772050238058398
+Unterfranken,50.0119,9.9396,1560.0,1620.0,237.0,236.0,0.9957805907172996,Germany,trial,,,8.685588237163813
+Uri,46.7739,8.6285,1450.0,1660.0,6.0,3.0,0.5,Switzerland,trial,,,1.381976597885342
+Utrecht,52.0749,5.2003,1320.0,1720.0,15.0,0.0,0.0,Netherlands,trial,,,2.1850968611841584
+Valais,46.2136,7.6429,1400.0,1480.0,822.0,305.0,0.3710462287104623,Switzerland,trial,,,16.175621361885174
+Valenciennes,50.357113,3.518332,,,,,,France,battle,1560.0,"Valenciennes, 1566 | Eighty Years' War",
+Vaud,46.5526,6.6207,1430.0,1670.0,3391.0,3378.0,0.9961663226186965,Switzerland,trial,,,32.854053388421256
+Veneto,45.661,11.8546,1390.0,1650.0,512.0,1.0,0.001953125,Italy,trial,,,12.766152972845846
+Venlo,51.3703748,6.1724031,,,,,,Netherlands,battle,1580.0,"Venlo, 1586 | Eighty Years' War",
+Vergt,45.026165,0.7193119,,,,,,France,battle,1560.0,"Vergt, 1562 | French Wars of Religion",
+Vienna,48.2081743,16.3738189,,,,,,Austria,battle,1610.0,"Vienna, 1619 | Thirty Years' War",
+Villabuona,45.355516,9.9181521,,,,,,Italy,battle,1630.0,"Villabuona, 1630 | Thirty Years' War",
+Vimory,47.94444,2.676921,,,,,,France,battle,1580.0,"Vimory, 1587 | French Wars of Religion",
+Vlissingen,51.4536672,3.5709125,,,,,,Netherlands,battle,1570.0,"Flushing, 1572 | Eighty Years' War",
+Vlotho,52.1605973,8.8560945,,,,,,Germany,battle,1630.0,"Vlotho, 1638 | Thirty Years' War",
+Vorarlberg,47.2366,9.8851,1580.0,1580.0,11.0,11.0,1.0,Austria,trial,,,1.8712051592547776
+Värmlands län,59.7861,13.1691,1630.0,1750.0,30.0,0.0,0.0,Sweden,trial,,,3.0901936161855166
+Västra Götalands län,57.9886,12.9933,1630.0,1750.0,83.0,0.0,0.0,Sweden,trial,,,5.140011726956917
+Waidhaus,49.6417301,12.4962639,,,,,,Germany,battle,1620.0,"Waidhaus, 1621 | Thirty Years' War",
+Wakefield,53.683298,-1.505924,,,,,,United Kingdom,battle,1640.0,"Wakefield, 1643 | British Wars of Religion",
+Walcheren,52.0604289,5.1369542,,,,,,Netherlands,battle,1570.0,"Walcheren (Reimerswaal), 1574 | Eighty Years' War",
+Warmińsko-mazurskie,53.8611,20.8301,1440.0,1440.0,1.0,0.0,0.0,Poland,trial,,,0.5641895835477563
+Wasseiges,50.61754,5.00162,,,,,,Belgium,battle,1630.0,"Avein, 1635 | Thirty Years' War",
+Wassy,48.499508,4.948753,,,,,,France,battle,1560.0,"Vassy, 1562 | French Wars of Religion",
+Waterford,52.256667,-7.129167,,,,,,Ireland,battle,1640.0,"Waterford, 1649 | British Wars of Religion",
+Werben,51.8131059,14.1872086,,,,,,Germany,battle,1630.0,"Werben, 1631 | Thirty Years' War",
+Wesel,51.6643079,6.6295679,,,,,,Germany,battle,1620.0,"Wesel, 1629 | Eighty Years' War",
+Weser-Ems,52.9118,7.7849,1490.0,1490.0,1.0,0.0,0.0,Germany,trial,,,0.5641895835477563
+West Central Scotland,55.8578,-4.6016,1620.0,1700.0,29.0,3.0,0.10344827586206896,United Kingdom,trial,,,3.0382538898732494
+West Midlands,52.4987,-1.9345,1300.0,1320.0,29.0,0.0,0.0,United Kingdom,trial,,,3.0382538898732494
+Wexford,52.336916,-6.4633381,,,,,,Ireland,battle,1640.0,"Wexford, 1649 | British Wars of Religion",
+Wielkopolskie,52.4977,16.6724,1430.0,1430.0,1.0,0.0,0.0,Poland,trial,,,0.5641895835477563
+Wien,48.2028,16.3932,1490.0,1490.0,1.0,1.0,1.0,Austria,trial,,,0.5641895835477563
+Wiesloch,49.2953714,8.6962064,,,,,,Germany,battle,1620.0,"Wiesloch, 1622 | Thirty Years' War",
+Wigan,53.5450645,-2.6325074,,,,,,United Kingdom,battle,1650.0,"Wigan, 1651 | British Wars of Religion",
+Wimpfen,49.23007,9.1575,,,,,,Germany,battle,1620.0,"Wimpfen, 1622 | Thirty Years' War",
+Winceby,53.195482,-0.018447,,,,,,United Kingdom,battle,1640.0,"Winceby, 1643 | British Wars of Religion",
+Wittenberg,51.8739831,12.6279659,,,,,,Germany,battle,1540.0,"Wittenberg, 1547 | Schmalkaldic Wars",
+Wittenweier,48.328779,7.761365,,,,,,Germany,battle,1630.0,"Wittenweier, 1638 | Thirty Years' War",
+Wittstock,53.163611,12.485556,,,,,,Germany,battle,1630.0,"Wittstock, 1636 | Thirty Years' War",
+Wolfenbuttel,52.1640413,10.5408484,,,,,,Germany,battle,1640.0,"Wolfenbuttel, 1641 | Thirty Years' War",
+Wolgast,54.0496018,13.7665592,,,,,,Germany,battle,1620.0,"Wolgast, 1628 | Thirty Years' War",
+Worcester,52.193636,-2.221575,,,,,,United Kingdom,battle,1640.0,"Powick Bridge, 1642 | British Wars of Religion<br>Worcester, 1651 | British Wars of Religion",
+Worcester,52.193636,-2.221575,,,,,,United Kingdom,battle,1650.0,"Powick Bridge, 1642 | British Wars of Religion<br>Worcester, 1651 | British Wars of Religion",
+Wurzburg,49.7913044,9.9533548,,,,,,Germany,battle,1630.0,"Wurzburg, 1525 | German Peasants' War<br>Wurzburg, 1631 | Thirty Years' War",
+Wurzburg,49.7913044,9.9533548,,,,,,Germany,battle,1520.0,"Wurzburg, 1525 | German Peasants' War<br>Wurzburg, 1631 | Thirty Years' War",
+York,53.9599651,-1.0872979,,,,,,United Kingdom,battle,1640.0,"York, 1644 | British Wars of Religion",
+Youghal,51.9542704,-7.8471707,,,,,,Ireland,battle,1640.0,"Youghal, 1645 | British Wars of Religion",
+Zeeland,51.3073,3.7883,1450.0,1850.0,39.0,2.0,0.05128205128205128,Netherlands,trial,,,3.523362819972964
+Zierikzee,51.6501218,3.9184977,,,,,,Netherlands,battle,1570.0,"Zierikzee, 1575 | Eighty Years' War",
+Zug,47.1664,8.5158,1650.0,1730.0,24.0,22.0,0.9166666666666666,Switzerland,trial,,,2.763953195770684
+Zug,47.1745887,8.513854,,,,,,Switzerland,battle,1530.0,"Zug, 1531 | Swiss Religious Wars",
+Zuid-Holland,51.9388,4.4867,1440.0,1780.0,143.0,28.0,0.1958041958041958,Netherlands,trial,,,6.746726148605861
+Zusmarshasen,48.3982617,10.5995405,,,,,,Germany,battle,1640.0,"Zusmarshausen, 1648 | Thirty Years' War",
+Zutphen,52.142736,6.1960584,,,,,,Netherlands,battle,1580.0,"Zutphen, 1572 | Eighty Years' War<br>Zutphen, 1586 | Eighty Years' War<br>Zutphen, 1591 | Eighty Years' War",
+Zutphen,52.142736,6.1960584,,,,,,Netherlands,battle,1590.0,"Zutphen, 1572 | Eighty Years' War<br>Zutphen, 1586 | Eighty Years' War<br>Zutphen, 1591 | Eighty Years' War",
+Zutphen,52.142736,6.1960584,,,,,,Netherlands,battle,1570.0,"Zutphen, 1572 | Eighty Years' War<br>Zutphen, 1586 | Eighty Years' War<br>Zutphen, 1591 | Eighty Years' War",
+Zürich,47.4074,8.6461,1420.0,1690.0,222.0,69.0,0.3108108108108108,Switzerland,trial,,,8.406235467365967
+s-Hertogenbosch,51.6978162,5.3036748,,,,,,Netherlands,battle,1620.0,"Hertogenbosch, 1629 | Eighty Years' War",
+Östergötlands län,58.3642,15.6517,1640.0,1750.0,29.0,0.0,0.0,Sweden,trial,,,3.0382538898732494
