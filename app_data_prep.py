@@ -811,7 +811,7 @@ treemap['city'] = treemap['city'].replace('Luxembourg', 'Luxembourg (city)')
 
 # Saving the datasets ********************************************************************************************************
 
-all_scatter.to_csv('data_scattermapbox.csv')
-all_scatter_total.to_csv('data_scattermapbox_total.csv')
-trials_net.to_csv('data_scattertimeline.csv')
-treemap.to_csv('data_treemap.csv')
+all_scatter.to_csv('app_data/data_scattermapbox.csv')
+all_scatter_total.to_csv('app_data/data_scattermapbox_total.csv')
+trials_net.to_csv('app_data/data_scattertimeline.csv')
+treemap.to_csv('app_data/data_treemap.csv')

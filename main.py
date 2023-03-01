@@ -25,10 +25,10 @@ href4 = 'https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1889'
 href5 = 'https://oll.libertyfund.org/title/roper-the-crisis-of-the-seventeenth-century'
 href6 = 'https://en.wikipedia.org/wiki/W%C3%BCrzburg_witch_trials'
 
-all_scatter = pd.read_csv('data_scattermapbox.csv', index_col=['decade', 'place'])
-all_scatter_total = pd.read_csv('data_scattermapbox_total.csv', index_col='place')
-trials_net = pd.read_csv('data_scattertimeline.csv')
-treemap = pd.read_csv('data_treemap.csv')
+all_scatter = pd.read_csv('app_data/data_scattermapbox.csv', index_col=['decade', 'place'])
+all_scatter_total = pd.read_csv('app_data/data_scattermapbox_total.csv', index_col='place')
+trials_net = pd.read_csv('app_data/data_scattertimeline.csv')
+treemap = pd.read_csv('app_data/data_treemap.csv')
 
 colorscale = [[0.0, "#0F3A49"], [0.1, "#0F3A49"], [0.1, "#1E3A44"], [0.2, "#1E3A44"], [0.2, "#2C3940"],
               [0.3, "#2C3940"], [0.3, "#3B393B"], [0.4, "#3B393B"], [0.4, "#493836"], [0.5, "#493836"],
