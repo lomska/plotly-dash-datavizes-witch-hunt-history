@@ -38,7 +38,7 @@ div.jp-RenderedHTMLCommon.jp-RenderedHTML.jp-OutputArea-output {
 /* text */
 
 h1 {
-    font-family:Copperplate Gothic Light;
+    font-family:Copperplate, "Copperplate Gothic Light";
     font-size:45px !important;
     color:#92361f;
     font-weight:bold !important;
@@ -47,7 +47,7 @@ h1 {
 }
 
 h2 {
-    font-family:Copperplate Gothic Light;
+    font-family:Copperplate, "Copperplate Gothic Light";
     font-size:25px !important;
     color:#0F3A49;
     font-weight:bold !important;
@@ -56,7 +56,7 @@ h2 {
 }
 
 h3 {
-    font-family:Copperplate Gothic Light;
+    font-family:Copperplate, "Copperplate Gothic Light";
     font-size:20px !important;
     color:#92361f;
     font-weight:bold !important;
@@ -64,7 +64,7 @@ h3 {
 }
 
 h4 {
-    font-family:Copperplate Gothic Light;
+    font-family:Copperplate, "Copperplate Gothic Light";
     font-size:18px !important;
     color:#0F3A49;
     font-weight:bold !important;
@@ -73,7 +73,7 @@ h4 {
 }
 
 h5 {
-    font-family:Copperplate Gothic Light;
+    font-family:Copperplate, "Copperplate Gothic Light";
     color:#0F3A49;
     font-size:12px !important;
     font-style: normal !important;
