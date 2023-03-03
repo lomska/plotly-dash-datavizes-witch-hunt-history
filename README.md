@@ -11,6 +11,8 @@ The researchers' idea was to prove the correlation between the scale of competit
 
 I had to remap the trials according to European NUTS levels to be able to use Eurostat GeoJSON data. The data preparation code can be found [here](https://github.com/lomska/plotly-dash-datavizes-witch-hunt-history/blob/main/app_data_prep.py).
 
+To run the code locally, mapbox token is needed.
+
 #### [EXPLORE THE DASHBOARD](http://witchy-years.herokuapp.com/)
 
 ## The Notebook
