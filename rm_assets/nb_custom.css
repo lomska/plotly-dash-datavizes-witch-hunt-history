@@ -162,11 +162,11 @@ a:active {
 /* codecells*/
 
 div.CodeMirror-lines {
-    margin:1em !important;
+    padding:1em !important;
 }
 
 div.jp-InputArea.jp-Cell-inputArea pre {
-    margin:1em !important;
+    padding:1em !important;
 }
 
 div.CodeMirror-lines pre span.cm-comment {
