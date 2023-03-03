@@ -11,4 +11,14 @@ The researchers' idea was to prove the correlation between the scale of competit
 
 I had to remap the trials according to European NUTS levels to be able to use Eurostat GeoJSON data. The data preparation code can be found [here](https://github.com/lomska/plotly-dash-datavizes-witch-hunt-history/blob/main/app_data_prep.py).
 
-#### [>>> EXPLORE THE DASHBOARD <<<](http://witchy-years.herokuapp.com/)
+#### [EXPLORE THE DASHBOARD](http://witchy-years.herokuapp.com/)
+
+## The Notebook
+
+| <img src="./rm_assets/nb_1.png" width="100%"> | <img src="./rm_assets/nb_2.png" width="100%"> | <img src="./rm_assets/nb_3.png" width="100%"> |
+| :---:   | :---: | :---: |
+
+The whole pre-processing is explained in the notebook, which also includes data exploration and more visualizations:
+
+#### [WITH ALL THE CODE (NBVIEWER)](https://nbviewer.org/github/lomska/plotly-dash-datavizes-witch-hunt-history/blob/main/Witchy-Years-Notebook.ipynb) 
+#### [CODE CELLS EXCLUDED (HTML)](https://github.com/lomska/plotly-dash-datavizes-witch-hunt-history/blob/main/Witchy-Years-Notebook.html)
