@@ -1049,7 +1049,7 @@ app.layout = html.Div([
                     style={'color': '#e4e3bf',
                            'font-family': 'Palatino',
                            'font-size': 17,
-                           'margin-left': 25,
+                           'margin-left': 15,
                            'margin-right': 70}
                 ),
                 html.Hr(
