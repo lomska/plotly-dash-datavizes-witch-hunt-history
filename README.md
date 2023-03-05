@@ -24,3 +24,4 @@ The whole pre-processing is explained in the notebook, which also includes data 
 
 #### [WITH ALL THE CODE (NBVIEWER)](https://nbviewer.org/github/lomska/plotly-dash-datavizes-witch-hunt-history/blob/main/Witchy-Years-Notebook.ipynb) 
 #### [CODE CELLS EXCLUDED (HTML)](https://github.com/lomska/plotly-dash-datavizes-witch-hunt-history/blob/main/Witchy-Years-Notebook.html)
+#### [KAGGLE](https://www.kaggle.com/code/takaya0/european-witch-trials-charted-animated)
